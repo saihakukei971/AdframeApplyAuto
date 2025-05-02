@@ -1,0 +1,90 @@
+2025-04-18 19:08:10,320 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-18 19:08:12,432 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-18 19:08:13,647 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-18 19:08:13,647 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-18 19:08:13,650 adframe.child_frame (create_new_adframe:22) [INFO]: 「MIYUKI BLOG_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-18 19:08:22,192 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:08:30,681 adframe.child_frame (create_new_adframe:75) [INFO]: 「MIYUKI BLOG_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-18 19:08:31,351 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:08:31,360 adframe.child_frame (create_new_adframe:22) [INFO]: 「MIYUKI BLOG_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-18 19:08:32,034 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:08:40,701 adframe.child_frame (create_new_adframe:75) [INFO]: 「MIYUKI BLOG_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-18 19:08:41,341 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:08:41,363 adframe.child_frame (create_new_adframe:22) [INFO]: 「Milk's English_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-18 19:08:42,034 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:08:50,407 adframe.child_frame (create_new_adframe:75) [INFO]: 「Milk's English_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-18 19:08:51,092 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:08:51,100 adframe.child_frame (create_new_adframe:22) [INFO]: 「Milk's English_記事内インフィード4連」の登録を開始します。
+2025-04-18 19:08:51,716 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-18 19:09:00,336 adframe.child_frame (create_new_adframe:75) [INFO]: 「Milk's English_記事内インフィード4連」の登録を完了しました。
+2025-04-18 19:09:00,982 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-18 19:09:00,998 adframe.child_frame (create_new_adframe:22) [INFO]: 「Milk's English_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-18 19:09:01,664 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:09:10,283 adframe.child_frame (create_new_adframe:75) [INFO]: 「Milk's English_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-18 19:09:11,035 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:09:11,056 adframe.child_frame (create_new_adframe:22) [INFO]: 「trend-infinite_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-18 19:09:11,724 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:09:20,224 adframe.child_frame (create_new_adframe:75) [INFO]: 「trend-infinite_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-18 19:09:20,874 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:09:20,897 adframe.child_frame (create_new_adframe:22) [INFO]: 「trend-infinite_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-18 19:09:21,521 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:09:30,092 adframe.child_frame (create_new_adframe:75) [INFO]: 「trend-infinite_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-18 19:09:30,759 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:09:30,765 adframe.child_frame (create_new_adframe:22) [INFO]: 「トレンドを日常に_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-18 19:09:31,370 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:09:39,423 adframe.child_frame (create_new_adframe:75) [INFO]: 「トレンドを日常に_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-18 19:09:40,104 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:09:40,126 adframe.child_frame (create_new_adframe:22) [INFO]: 「トレンドを日常に_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-18 19:09:40,777 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:09:48,672 adframe.child_frame (create_new_adframe:75) [INFO]: 「トレンドを日常に_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-18 19:09:49,359 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:09:49,366 adframe.child_frame (create_new_adframe:22) [INFO]: 「トレンドを日常に_記事内2x2タイル表示_インフィード小」の登録を開始します。
+2025-04-18 19:09:50,047 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:09:58,597 adframe.child_frame (create_new_adframe:75) [INFO]: 「トレンドを日常に_記事内2x2タイル表示_インフィード小」の登録を完了しました。
+2025-04-18 19:09:59,278 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:09:59,278 adframe.child_frame (create_new_adframe:22) [INFO]: 「楽しい暮らしのヒント帖_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-18 19:09:59,978 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:10:08,187 adframe.child_frame (create_new_adframe:75) [INFO]: 「楽しい暮らしのヒント帖_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-18 19:10:08,819 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:10:08,842 adframe.child_frame (create_new_adframe:22) [INFO]: 「きになること調べ隊_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-18 19:10:09,500 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:10:18,077 adframe.child_frame (create_new_adframe:75) [INFO]: 「きになること調べ隊_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-18 19:10:18,765 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:10:18,788 adframe.child_frame (create_new_adframe:22) [INFO]: 「50代からのセルフ磨き_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-18 19:10:19,441 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:10:27,623 adframe.child_frame (create_new_adframe:75) [INFO]: 「50代からのセルフ磨き_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-18 19:10:28,299 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:10:28,328 adframe.child_frame (create_new_adframe:22) [INFO]: 「きしゃんの雑記ブログ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-18 19:10:29,008 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:10:37,113 adframe.child_frame (create_new_adframe:75) [INFO]: 「きしゃんの雑記ブログ_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-18 19:10:37,800 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:10:37,811 adframe.child_frame (create_new_adframe:22) [INFO]: 「親子一緒に 空手黒帯目指す/れすとばーP_記事内_インフィード大」の登録を開始します。
+2025-04-18 19:10:38,482 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオンにしました。
+2025-04-18 19:10:46,531 adframe.child_frame (create_new_adframe:75) [INFO]: 「親子一緒に 空手黒帯目指す/れすとばーP_記事内_インフィード大」の登録を完了しました。
+2025-04-18 19:10:47,200 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオフにしました。
+2025-04-18 19:10:47,242 adframe.child_frame (create_new_adframe:22) [INFO]: 「日本娯楽書簡_記事内2x2タイル表示_インフィード小」の登録を開始します。
+2025-04-18 19:10:47,914 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:10:55,953 adframe.child_frame (create_new_adframe:75) [INFO]: 「日本娯楽書簡_記事内2x2タイル表示_インフィード小」の登録を完了しました。
+2025-04-18 19:10:56,657 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:10:56,657 adframe.child_frame (create_new_adframe:22) [INFO]: 「流行ハンター！_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-18 19:10:57,295 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:11:05,968 adframe.child_frame (create_new_adframe:75) [INFO]: 「流行ハンター！_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-18 19:11:06,647 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:11:06,676 adframe.child_frame (create_new_adframe:22) [INFO]: 「流行ハンター！_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-18 19:11:07,337 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:11:15,733 adframe.child_frame (create_new_adframe:75) [INFO]: 「流行ハンター！_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-18 19:11:16,419 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:11:16,429 adframe.child_frame (create_new_adframe:22) [INFO]: 「やもりさなりブログ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-18 19:11:17,097 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:11:25,169 adframe.child_frame (create_new_adframe:75) [INFO]: 「やもりさなりブログ_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-18 19:11:25,918 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:11:25,929 adframe.child_frame (create_new_adframe:22) [INFO]: 「ガシャーブログ_記事内2x2タイル表示_インフィード小」の登録を開始します。
+2025-04-18 19:11:26,611 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-18 19:11:34,754 adframe.child_frame (create_new_adframe:75) [INFO]: 「ガシャーブログ_記事内2x2タイル表示_インフィード小」の登録を完了しました。
+2025-04-18 19:11:35,451 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-18 19:11:35,452 adframe.child_frame (create_new_adframe:22) [INFO]: 「ガシャーブログ_記事内_インフィード大」の登録を開始します。
+2025-04-18 19:11:36,112 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオンにしました。
+2025-04-18 19:11:44,750 adframe.child_frame (create_new_adframe:75) [INFO]: 「ガシャーブログ_記事内_インフィード大」の登録を完了しました。
+2025-04-18 19:11:45,405 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオフにしました。
+2025-04-18 19:11:45,446 __main__ (main:33) [INFO]: 子枠の作成に成功しました。
+2025-04-18 19:11:47,674 __main__ (main:36) [INFO]: 子枠の作成を終了しました。

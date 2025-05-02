@@ -1,0 +1,552 @@
+2025-04-21 17:54:14,095 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-21 17:54:16,444 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-21 17:54:17,749 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-21 17:54:17,749 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-21 17:54:17,754 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18140
+2025-04-21 17:54:35,596 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-21 17:54:37,412 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-21 17:54:38,477 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-21 17:54:38,479 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-21 17:54:38,479 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18140
+2025-04-21 17:54:52,185 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】赤猫ブログ_記事内_レクタングル用」を入力。
+2025-04-21 17:54:52,251 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】赤猫ブログ_記事内_インフィード用」を入力。
+2025-04-21 17:54:52,255 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:54:53,295 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18140
+2025-04-21 17:55:04,603 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-21 17:55:06,536 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-21 17:55:06,661 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-21 17:55:06,661 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-21 17:55:06,661 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18140
+2025-04-21 17:55:25,587 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-21 17:55:27,512 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-21 17:55:27,619 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-21 17:55:27,620 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-21 17:55:27,620 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18140
+2025-04-21 17:55:42,076 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】赤猫ブログ_記事内_レクタングル用」を入力。
+2025-04-21 17:55:42,141 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】赤猫ブログ_記事内_インフィード用」を入力。
+2025-04-21 17:55:42,144 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:55:43,195 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18140
+2025-04-21 17:55:54,542 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-21 17:55:56,391 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-21 17:55:57,461 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-21 17:55:57,462 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-21 17:55:57,462 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18140
+2025-04-21 17:56:11,052 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】赤猫ブログ_記事内_レクタングル用」を入力。
+2025-04-21 17:56:11,118 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】赤猫ブログ_記事内_インフィード用」を入力。
+2025-04-21 17:56:11,122 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:56:12,176 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18140
+2025-04-21 17:56:23,518 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-21 17:56:25,408 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-21 17:56:26,569 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-21 17:56:26,569 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-21 17:56:26,570 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18140
+2025-04-21 17:56:40,247 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】赤猫ブログ_記事内_レクタングル用」を入力。
+2025-04-21 17:56:40,315 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】赤猫ブログ_記事内_インフィード用」を入力。
+2025-04-21 17:56:40,318 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:56:41,381 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18140
+2025-04-21 17:56:41,386 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18139
+2025-04-21 17:56:46,644 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】ほっこり会館情報局_記事内_レクタングル用」を入力。
+2025-04-21 17:56:46,702 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】ほっこり会館情報局_記事内_インフィード用」を入力。
+2025-04-21 17:56:46,706 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:56:47,744 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18139
+2025-04-21 17:56:47,745 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18138
+2025-04-21 17:56:53,189 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】パッチワーク・デイズ_記事内_レクタングル用」を入力。
+2025-04-21 17:56:53,272 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】パッチワーク・デイズ_記事内_インフィード用」を入力。
+2025-04-21 17:56:53,276 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:56:54,317 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18138
+2025-04-21 17:56:54,317 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18129
+2025-04-21 17:56:59,733 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】エンタメブログ_記事内_レクタングル用」を入力。
+2025-04-21 17:56:59,814 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】エンタメブログ_記事内_インフィード用」を入力。
+2025-04-21 17:56:59,818 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:57:00,882 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18129
+2025-04-21 17:57:00,882 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18128
+2025-04-21 17:57:06,382 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】ゆるっととーく_記事内_レクタングル用」を入力。
+2025-04-21 17:57:06,461 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】ゆるっととーく_記事内_インフィード用」を入力。
+2025-04-21 17:57:06,465 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:57:07,509 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18128
+2025-04-21 17:57:07,510 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18146
+2025-04-21 17:57:13,384 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】Tips-Piyoko_記事内_レクタングル用」を入力。
+2025-04-21 17:57:13,474 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】Tips-Piyoko_記事内_インフィード用」を入力。
+2025-04-21 17:57:13,477 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:57:14,519 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18146
+2025-04-21 17:57:14,524 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18147
+2025-04-21 17:57:26,553 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-21 17:57:28,406 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-21 17:57:28,521 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-21 17:57:28,522 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-21 17:57:28,522 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 18140
+2025-04-21 17:57:28,523 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 18139
+2025-04-21 17:57:28,523 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 18138
+2025-04-21 17:57:28,523 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 18129
+2025-04-21 17:57:28,523 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 18128
+2025-04-21 17:57:28,523 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 18146
+2025-04-21 17:57:28,523 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18147
+2025-04-21 17:57:42,936 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】Happy的芸能ブログ_記事内_レクタングル用」を入力。
+2025-04-21 17:57:43,012 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】Happy的芸能ブログ_記事内_インフィード用」を入力。
+2025-04-21 17:57:43,016 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:57:44,061 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18147
+2025-04-21 17:57:44,061 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18148
+2025-04-21 17:57:49,345 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】芸能あれこれ_記事内_レクタングル用」を入力。
+2025-04-21 17:57:49,407 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】芸能あれこれ_記事内_インフィード用」を入力。
+2025-04-21 17:57:49,410 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:57:50,460 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18148
+2025-04-21 17:57:50,460 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18145
+2025-04-21 17:57:56,342 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】芸能人の裏側探索隊_記事内_レクタングル用」を入力。
+2025-04-21 17:57:56,408 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】芸能人の裏側探索隊_記事内_インフィード用」を入力。
+2025-04-21 17:57:56,413 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:57:57,456 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18145
+2025-04-21 17:57:57,457 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 13994
+2025-04-21 17:58:02,811 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】ひろぼーCAFEブログ_記事内_レクタングル用」を入力。
+2025-04-21 17:58:02,884 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】ひろぼーCAFEブログ_記事内_インフィード用」を入力。
+2025-04-21 17:58:02,889 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:58:03,943 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 13994
+2025-04-21 17:58:03,943 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17058
+2025-04-21 17:58:09,253 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】templatesledger_記事内_レクタングル用」を入力。
+2025-04-21 17:58:09,315 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】templatesledger_記事内_インフィード用」を入力。
+2025-04-21 17:58:09,318 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:58:10,363 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 17058
+2025-04-21 17:58:10,363 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 18144
+2025-04-21 17:58:15,757 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】じぇいじぇいのブログ_記事内_レクタングル用」を入力。
+2025-04-21 17:58:15,838 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】じぇいじぇいのブログ_記事内_インフィード用」を入力。
+2025-04-21 17:58:15,842 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:58:16,898 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 18144
+2025-04-21 17:58:16,900 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17893
+2025-04-21 17:58:22,377 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】のんびりゆる育児_記事内_レクタングル用」を入力。
+2025-04-21 17:58:22,461 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】のんびりゆる育児_記事内_インフィード用」を入力。
+2025-04-21 17:58:22,464 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-21 17:58:23,506 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 17893
+2025-04-21 17:58:23,507 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-21 17:58:23,507 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-21 17:58:26,879 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18140
+2025-04-21 17:58:28,061 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】赤猫ブログ_記事内_ハイブリッド」を入力。
+2025-04-21 17:58:35,548 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】赤猫ブログ_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 17:58:35,560 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】赤猫ブログ_記事内_インフィード用」にチェックを付けました。
+2025-04-21 17:58:37,041 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 17:58:40,140 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18140
+2025-04-21 17:58:40,141 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18139
+2025-04-21 17:58:41,260 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】ほっこり会館情報局_記事内_ハイブリッド」を入力。
+2025-04-21 17:58:47,248 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】ほっこり会館情報局_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 17:58:47,260 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】ほっこり会館情報局_記事内_インフィード用」にチェックを付けました。
+2025-04-21 17:58:48,666 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 17:58:51,811 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18139
+2025-04-21 17:58:51,811 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18138
+2025-04-21 17:58:52,946 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】パッチワーク・デイズ_記事内_ハイブリッド」を入力。
+2025-04-21 17:58:59,227 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】パッチワーク・デイズ_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 17:58:59,241 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】パッチワーク・デイズ_記事内_インフィード用」にチェックを付けました。
+2025-04-21 17:59:00,718 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 17:59:03,824 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18138
+2025-04-21 17:59:03,826 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18129
+2025-04-21 17:59:04,968 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】エンタメブログ_記事内_ハイブリッド」を入力。
+2025-04-21 17:59:11,043 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】エンタメブログ_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 17:59:11,055 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】エンタメブログ_記事内_インフィード用」にチェックを付けました。
+2025-04-21 17:59:12,545 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 17:59:15,655 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18129
+2025-04-21 17:59:15,656 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18128
+2025-04-21 17:59:16,749 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】ゆるっととーく_記事内_ハイブリッド」を入力。
+2025-04-21 17:59:22,965 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】ゆるっととーく_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 17:59:22,977 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】ゆるっととーく_記事内_インフィード用」にチェックを付けました。
+2025-04-21 17:59:24,362 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 17:59:27,530 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18128
+2025-04-21 17:59:27,532 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18146
+2025-04-21 17:59:28,645 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】Tips-Piyoko_記事内_ハイブリッド」を入力。
+2025-04-21 17:59:34,880 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】Tips-Piyoko_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 17:59:34,893 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】Tips-Piyoko_記事内_インフィード用」にチェックを付けました。
+2025-04-21 17:59:36,327 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 17:59:39,438 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18146
+2025-04-21 17:59:39,439 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18147
+2025-04-21 17:59:40,545 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】Happy的芸能ブログ_記事内_ハイブリッド」を入力。
+2025-04-21 17:59:46,839 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】Happy的芸能ブログ_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 17:59:46,850 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】Happy的芸能ブログ_記事内_インフィード用」にチェックを付けました。
+2025-04-21 17:59:48,308 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 17:59:51,469 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18147
+2025-04-21 17:59:51,473 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18148
+2025-04-21 17:59:52,590 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】芸能あれこれ_記事内_ハイブリッド」を入力。
+2025-04-21 17:59:59,325 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】芸能あれこれ_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 17:59:59,337 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】芸能あれこれ_記事内_インフィード用」にチェックを付けました。
+2025-04-21 18:00:00,699 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 18:00:03,991 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18148
+2025-04-21 18:00:03,994 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18145
+2025-04-21 18:00:05,190 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】芸能人の裏側探索隊_記事内_ハイブリッド」を入力。
+2025-04-21 18:00:11,713 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】芸能人の裏側探索隊_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 18:00:11,726 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】芸能人の裏側探索隊_記事内_インフィード用」にチェックを付けました。
+2025-04-21 18:00:13,214 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 18:00:16,342 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18145
+2025-04-21 18:00:16,345 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 13994
+2025-04-21 18:00:17,465 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】ひろぼーCAFEブログ_記事内_ハイブリッド」を入力。
+2025-04-21 18:00:24,258 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】ひろぼーCAFEブログ_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 18:00:24,272 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】ひろぼーCAFEブログ_記事内_インフィード用」にチェックを付けました。
+2025-04-21 18:00:25,637 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 18:00:28,748 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 13994
+2025-04-21 18:00:28,751 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17058
+2025-04-21 18:00:29,858 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】templatesledger_記事内_ハイブリッド」を入力。
+2025-04-21 18:00:36,094 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】templatesledger_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 18:00:36,106 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】templatesledger_記事内_インフィード用」にチェックを付けました。
+2025-04-21 18:00:37,517 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 18:00:40,689 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 17058
+2025-04-21 18:00:40,692 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 18144
+2025-04-21 18:00:41,814 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】じぇいじぇいのブログ_記事内_ハイブリッド」を入力。
+2025-04-21 18:00:48,515 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】じぇいじぇいのブログ_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 18:00:48,529 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】じぇいじぇいのブログ_記事内_インフィード用」にチェックを付けました。
+2025-04-21 18:00:49,946 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 18:00:53,084 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 18144
+2025-04-21 18:00:53,087 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17893
+2025-04-21 18:00:54,202 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】のんびりゆる育児_記事内_ハイブリッド」を入力。
+2025-04-21 18:01:01,644 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】のんびりゆる育児_記事内_レクタングル用」にチェックを付けました。
+2025-04-21 18:01:01,657 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】のんびりゆる育児_記事内_インフィード用」にチェックを付けました。
+2025-04-21 18:01:03,083 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-21 18:01:06,197 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 17893
+2025-04-21 18:01:06,199 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-21 18:01:06,256 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-21 18:01:09,603 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 1個
+2025-04-21 18:01:12,327 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110191】のんびりゆる育児_記事内_ハイブリッド」を入力。
+2025-04-21 18:01:13,186 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110191】のんびりゆる育児_記事内_レクタングル用」を入力。
+2025-04-21 18:01:16,643 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110191】のんびりゆる育児_記事内_インフィード用」を入力。
+2025-04-21 18:01:24,751 __main__ (main:48) [INFO]: IDの挿入に成功しました。
+2025-04-21 18:01:24,751 __main__ (main:51) [INFO]: ハイブリット枠の作成に成功しました。
+2025-04-21 18:01:31,691 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-21 18:01:33,688 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-21 18:01:33,808 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-21 18:01:37,452 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 13個
+2025-04-21 18:01:39,657 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110190】じぇいじぇいのブログ_記事内_ハイブリッド」を入力。
+2025-04-21 18:01:40,471 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110190】じぇいじぇいのブログ_記事内_レクタングル用」を入力。
+2025-04-21 18:01:43,853 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110190】じぇいじぇいのブログ_記事内_インフィード用」を入力。
+2025-04-21 18:01:54,711 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110189】templatesledger_記事内_ハイブリッド」を入力。
+2025-04-21 18:01:55,540 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110189】templatesledger_記事内_レクタングル用」を入力。
+2025-04-21 18:01:59,042 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110189】templatesledger_記事内_インフィード用」を入力。
+2025-04-21 18:02:09,998 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110188】ひろぼーCAFEブログ_記事内_ハイブリッド」を入力。
+2025-04-21 18:02:10,840 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110188】ひろぼーCAFEブログ_記事内_レクタングル用」を入力。
+2025-04-21 18:02:14,514 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110188】ひろぼーCAFEブログ_記事内_インフィード用」を入力。
+2025-04-21 18:02:17,700 adframe.insert_id (insert_id:99) [ERROR]: [ERROR] 指定された要素が存在しません。
+2025-04-21 18:02:17,701 adframe.insert_id (insert_id:100) [ERROR]: NoSuchElementException:
+Traceback (most recent call last):
+  File "D:\rep05\AdframeApplyAuto_20250418_ver2\.\adframe\insert_id.py", line 77, in insert_id
+    micro_func.button_click(
+  File "D:\rep05\AdframeApplyAuto_20250418_ver2\.\core\micro_func.py", line 84, in button_click
+    for btn in scraper.find_elements_by_css(css):
+  File "D:\rep05\AdframeApplyAuto_20250418_ver2\.\core\scraper.py", line 30, in find_elements_by_css
+    raise NoSuchElementException("要素が見つかりませんでした")
+selenium.common.exceptions.NoSuchElementException: Message: 要素が見つかりませんでした; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2025-04-21 18:02:28,493 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-21 18:02:30,436 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-21 18:02:31,418 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-21 18:02:34,392 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 11個
+2025-04-21 18:02:37,164 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110188】ひろぼーCAFEブログ_記事内_ハイブリッド」を入力。
+2025-04-21 18:02:37,998 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110188110188】ひろぼーCAFEブログ_記事内_レクタングル用」を入力。
+2025-04-21 18:02:41,456 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110188110188】ひろぼーCAFEブログ_記事内_インフィード用」を入力。
+2025-04-21 18:02:51,262 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110187】芸能人の裏側探索隊_記事内_ハイブリッド」を入力。
+2025-04-21 18:02:52,048 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110187】芸能人の裏側探索隊_記事内_レクタングル用」を入力。
+2025-04-21 18:02:55,533 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110187】芸能人の裏側探索隊_記事内_インフィード用」を入力。
+2025-04-21 18:03:06,816 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110186】芸能あれこれ_記事内_ハイブリッド」を入力。
+2025-04-21 18:03:07,636 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110186】芸能あれこれ_記事内_レクタングル用」を入力。
+2025-04-21 18:03:21,564 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-21 18:03:23,498 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-21 18:03:23,660 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-21 18:03:27,366 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 9個
+2025-04-21 18:03:30,161 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110186】芸能あれこれ_記事内_ハイブリッド」を入力。
+2025-04-21 18:03:31,092 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110186110186】芸能あれこれ_記事内_レクタングル用」を入力。
+2025-04-21 18:03:45,509 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-21 18:03:47,266 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-21 18:03:48,149 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-21 18:03:51,077 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 9個
+2025-04-21 18:03:53,969 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110186】芸能あれこれ_記事内_ハイブリッド」を入力。
+2025-04-21 18:03:54,782 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110186110186110186】芸能あれこれ_記事内_レクタングル用」を入力。
+2025-04-21 18:03:58,174 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110186】芸能あれこれ_記事内_インフィード用」を入力。
+2025-04-21 18:04:09,042 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110185】Happy的芸能ブログ_記事内_ハイブリッド」を入力。
+2025-04-21 18:04:09,807 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110185】Happy的芸能ブログ_記事内_レクタングル用」を入力。
+2025-04-21 18:04:13,259 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110185】Happy的芸能ブログ_記事内_インフィード用」を入力。
+2025-04-21 18:04:23,388 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110184】Tips-Piyoko_記事内_ハイブリッド」を入力。
+2025-04-21 18:04:24,197 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110184】Tips-Piyoko_記事内_レクタングル用」を入力。
+2025-04-21 18:04:27,810 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110184】Tips-Piyoko_記事内_インフィード用」を入力。
+2025-04-21 18:04:37,477 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110183】ゆるっととーく_記事内_ハイブリッド」を入力。
+2025-04-21 18:04:38,319 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110183】ゆるっととーく_記事内_レクタングル用」を入力。
+2025-04-21 18:04:41,910 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110183】ゆるっととーく_記事内_インフィード用」を入力。
+2025-04-21 18:04:52,652 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110182】エンタメブログ_記事内_ハイブリッド」を入力。
+2025-04-21 18:04:53,407 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110182】エンタメブログ_記事内_レクタングル用」を入力。
+2025-04-21 18:04:56,956 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110182】エンタメブログ_記事内_インフィード用」を入力。
+2025-04-21 18:05:08,349 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110181】パッチワーク・デイズ_記事内_ハイブリッド」を入力。
+2025-04-21 18:05:09,265 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110181】パッチワーク・デイズ_記事内_レクタングル用」を入力。
+2025-04-21 18:05:23,544 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-21 18:05:25,478 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-21 18:05:25,681 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-21 18:05:29,208 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 4個
+2025-04-21 18:05:31,880 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110181】パッチワーク・デイズ_記事内_ハイブリッド」を入力。
+2025-04-21 18:05:32,699 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110181110181】パッチワーク・デイズ_記事内_レクタングル用」を入力。
+2025-04-21 18:05:36,233 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110181】パッチワーク・デイズ_記事内_インフィード用」を入力。
+2025-04-21 18:05:46,717 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110180】ほっこり会館情報局_記事内_ハイブリッド」を入力。
+2025-04-21 18:05:47,552 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110180】ほっこり会館情報局_記事内_レクタングル用」を入力。
+2025-04-21 18:05:51,062 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110180】ほっこり会館情報局_記事内_インフィード用」を入力。
+2025-04-21 18:06:01,814 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110179】赤猫ブログ_記事内_ハイブリッド」を入力。
+2025-04-21 18:06:02,771 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110179】赤猫ブログ_記事内_レクタングル用」を入力。
+2025-04-21 18:06:16,508 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-21 18:06:18,445 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-21 18:06:18,568 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-21 18:06:22,649 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 2個
+2025-04-21 18:06:25,458 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110179】赤猫ブログ_記事内_ハイブリッド」を入力。
+2025-04-21 18:06:26,331 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110179110179】赤猫ブログ_記事内_レクタングル用」を入力。
+2025-04-21 18:06:29,831 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110179】赤猫ブログ_記事内_インフィード用」を入力。
+2025-04-21 18:06:41,202 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110130】トレンドを日常に_記事内_ハイブリット」を入力。
+2025-04-21 18:06:42,026 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110130】トレンドを日常に_記事内_レクタングル用」を入力。
+2025-04-21 18:06:45,582 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110130】トレンドを日常に_記事内_インフィード用」を入力。
+2025-04-21 18:06:55,971 __main__ (execute_insert:66) [INFO]: IDの挿入に成功しました。
+2025-04-21 18:07:41,016 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:07:42,876 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-21 18:07:43,811 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-21 18:07:43,811 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:07:43,812 adframe.child_frame (create_new_adframe:22) [INFO]: 「赤猫ブログ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:07:53,289 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:08:10,500 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:08:12,368 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-21 18:08:13,346 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-21 18:08:13,346 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:08:13,347 adframe.child_frame (create_new_adframe:22) [INFO]: 「赤猫ブログ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:08:22,082 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:08:30,099 adframe.child_frame (create_new_adframe:75) [INFO]: 「赤猫ブログ_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:08:30,801 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:08:30,809 adframe.child_frame (create_new_adframe:22) [INFO]: 「赤猫ブログ_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:08:31,435 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:08:40,066 adframe.child_frame (create_new_adframe:75) [INFO]: 「赤猫ブログ_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:08:40,735 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:08:40,754 adframe.child_frame (create_new_adframe:22) [INFO]: 「赤猫ブログ_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:08:41,434 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:08:49,476 adframe.child_frame (create_new_adframe:75) [INFO]: 「赤猫ブログ_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:08:49,504 adframe.child_frame (create_new_adframe:81) [WARNING]: ウィンドウの切り替えに失敗しました。3回目
+2025-04-21 18:09:01,431 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:09:03,292 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-21 18:09:04,330 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-21 18:09:04,330 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:09:04,331 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18140
+2025-04-21 18:09:04,331 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18140
+2025-04-21 18:09:04,331 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18140
+2025-04-21 18:09:04,331 adframe.child_frame (create_new_adframe:22) [INFO]: 「ほっこり会館情報局_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:09:12,800 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:09:30,556 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:09:32,409 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-21 18:09:33,315 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-21 18:09:33,315 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:09:33,316 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18140
+2025-04-21 18:09:33,316 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18140
+2025-04-21 18:09:33,317 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18140
+2025-04-21 18:09:33,317 adframe.child_frame (create_new_adframe:22) [INFO]: 「ほっこり会館情報局_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:09:42,009 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:09:49,946 adframe.child_frame (create_new_adframe:75) [INFO]: 「ほっこり会館情報局_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:09:50,615 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:09:50,623 adframe.child_frame (create_new_adframe:22) [INFO]: 「ほっこり会館情報局_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:09:51,299 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:09:59,755 adframe.child_frame (create_new_adframe:75) [INFO]: 「ほっこり会館情報局_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:10:00,474 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:10:00,493 adframe.child_frame (create_new_adframe:22) [INFO]: 「ほっこり会館情報局_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:10:01,134 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:10:09,258 adframe.child_frame (create_new_adframe:75) [INFO]: 「ほっこり会館情報局_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:10:09,951 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:10:09,979 adframe.child_frame (create_new_adframe:22) [INFO]: 「パッチワーク・デイズ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:10:10,634 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:10:19,178 adframe.child_frame (create_new_adframe:75) [INFO]: 「パッチワーク・デイズ_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:10:19,872 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:10:19,882 adframe.child_frame (create_new_adframe:22) [INFO]: 「パッチワーク・デイズ_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:10:20,556 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:10:28,441 adframe.child_frame (create_new_adframe:75) [INFO]: 「パッチワーク・デイズ_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:10:29,175 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:10:29,194 adframe.child_frame (create_new_adframe:22) [INFO]: 「パッチワーク・デイズ_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:10:29,921 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:10:38,437 adframe.child_frame (create_new_adframe:75) [INFO]: 「パッチワーク・デイズ_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:10:39,115 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:10:39,144 adframe.child_frame (create_new_adframe:22) [INFO]: 「エンタメブログ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:10:39,811 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:10:47,806 adframe.child_frame (create_new_adframe:75) [INFO]: 「エンタメブログ_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:10:48,503 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:10:48,512 adframe.child_frame (create_new_adframe:22) [INFO]: 「エンタメブログ_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:10:49,168 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:10:57,572 adframe.child_frame (create_new_adframe:75) [INFO]: 「エンタメブログ_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:10:58,239 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:10:58,259 adframe.child_frame (create_new_adframe:22) [INFO]: 「エンタメブログ_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:10:58,898 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:11:06,932 adframe.child_frame (create_new_adframe:75) [INFO]: 「エンタメブログ_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:11:07,603 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:11:07,630 adframe.child_frame (create_new_adframe:22) [INFO]: 「ゆるっととーく_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:11:08,345 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:11:16,509 adframe.child_frame (create_new_adframe:75) [INFO]: 「ゆるっととーく_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:11:17,212 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:11:17,222 adframe.child_frame (create_new_adframe:22) [INFO]: 「ゆるっととーく_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:11:17,873 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:11:25,904 adframe.child_frame (create_new_adframe:75) [INFO]: 「ゆるっととーく_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:11:26,563 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:11:26,584 adframe.child_frame (create_new_adframe:22) [INFO]: 「ゆるっととーく_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:11:27,252 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:11:35,764 adframe.child_frame (create_new_adframe:75) [INFO]: 「ゆるっととーく_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:11:36,440 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:11:36,467 adframe.child_frame (create_new_adframe:22) [INFO]: 「Tips-Piyoko_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:11:37,145 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:11:45,187 adframe.child_frame (create_new_adframe:75) [INFO]: 「Tips-Piyoko_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:11:45,883 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:11:45,894 adframe.child_frame (create_new_adframe:22) [INFO]: 「Tips-Piyoko_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:11:46,560 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:11:55,178 adframe.child_frame (create_new_adframe:75) [INFO]: 「Tips-Piyoko_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:11:55,869 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:11:55,888 adframe.child_frame (create_new_adframe:22) [INFO]: 「Tips-Piyoko_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:11:56,545 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:12:05,135 adframe.child_frame (create_new_adframe:75) [INFO]: 「Tips-Piyoko_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:12:05,871 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:12:05,898 adframe.child_frame (create_new_adframe:22) [INFO]: 「Happy的芸能ブログ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:12:06,575 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:12:15,074 adframe.child_frame (create_new_adframe:75) [INFO]: 「Happy的芸能ブログ_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:12:15,768 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:12:15,779 adframe.child_frame (create_new_adframe:22) [INFO]: 「Happy的芸能ブログ_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:12:16,423 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:12:24,571 adframe.child_frame (create_new_adframe:75) [INFO]: 「Happy的芸能ブログ_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:12:25,341 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:12:25,363 adframe.child_frame (create_new_adframe:22) [INFO]: 「Happy的芸能ブログ_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:12:26,023 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:12:34,559 adframe.child_frame (create_new_adframe:75) [INFO]: 「Happy的芸能ブログ_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:12:35,239 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:12:35,267 adframe.child_frame (create_new_adframe:22) [INFO]: 「芸能あれこれ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:12:35,946 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:12:44,571 adframe.child_frame (create_new_adframe:75) [INFO]: 「芸能あれこれ_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:12:45,279 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:12:45,289 adframe.child_frame (create_new_adframe:22) [INFO]: 「芸能あれこれ_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:12:45,937 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:12:54,494 adframe.child_frame (create_new_adframe:75) [INFO]: 「芸能あれこれ_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:12:55,159 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:12:55,179 adframe.child_frame (create_new_adframe:22) [INFO]: 「芸能あれこれ_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:12:55,847 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:13:03,905 adframe.child_frame (create_new_adframe:75) [INFO]: 「芸能あれこれ_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:13:04,600 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:13:04,627 adframe.child_frame (create_new_adframe:22) [INFO]: 「芸能人の裏側探索隊_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:13:05,322 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:13:13,385 adframe.child_frame (create_new_adframe:75) [INFO]: 「芸能人の裏側探索隊_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:13:14,060 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:13:14,070 adframe.child_frame (create_new_adframe:22) [INFO]: 「芸能人の裏側探索隊_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:13:14,731 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:13:22,919 adframe.child_frame (create_new_adframe:75) [INFO]: 「芸能人の裏側探索隊_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:13:23,571 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:13:23,590 adframe.child_frame (create_new_adframe:22) [INFO]: 「芸能人の裏側探索隊_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:13:24,284 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:13:32,338 adframe.child_frame (create_new_adframe:75) [INFO]: 「芸能人の裏側探索隊_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:13:33,006 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:13:33,035 adframe.child_frame (create_new_adframe:22) [INFO]: 「おしゃプロ_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:13:33,684 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:13:42,260 adframe.child_frame (create_new_adframe:75) [INFO]: 「おしゃプロ_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:13:42,934 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:13:42,954 adframe.child_frame (create_new_adframe:22) [INFO]: 「おしゃプロ_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:13:43,613 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:13:52,153 adframe.child_frame (create_new_adframe:75) [INFO]: 「おしゃプロ_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:13:52,820 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:13:52,849 adframe.child_frame (create_new_adframe:22) [INFO]: 「おしゃプロ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:13:53,512 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:14:01,546 adframe.child_frame (create_new_adframe:75) [INFO]: 「おしゃプロ_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:14:02,242 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:14:02,252 adframe.child_frame (create_new_adframe:22) [INFO]: 「おしゃプロ_記事内2x2タイル表示_インフィード小」の登録を開始します。
+2025-04-21 18:14:02,919 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:14:10,996 adframe.child_frame (create_new_adframe:75) [INFO]: 「おしゃプロ_記事内2x2タイル表示_インフィード小」の登録を完了しました。
+2025-04-21 18:14:11,704 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:14:11,704 adframe.child_frame (create_new_adframe:22) [INFO]: 「おしゃプロ_記事内_インフィード大」の登録を開始します。
+2025-04-21 18:14:12,331 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオンにしました。
+2025-04-21 18:14:20,890 adframe.child_frame (create_new_adframe:75) [INFO]: 「おしゃプロ_記事内_インフィード大」の登録を完了しました。
+2025-04-21 18:14:21,557 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオフにしました。
+2025-04-21 18:14:21,597 adframe.child_frame (create_new_adframe:22) [INFO]: 「トレンドを日常に_記事内2x2タイル表示_インフィード小」の登録を開始します。
+2025-04-21 18:14:22,259 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:14:30,796 adframe.child_frame (create_new_adframe:75) [INFO]: 「トレンドを日常に_記事内2x2タイル表示_インフィード小」の登録を完了しました。
+2025-04-21 18:14:31,540 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:14:31,540 adframe.child_frame (create_new_adframe:22) [INFO]: 「エスエムビーニュース_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:14:32,243 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:14:40,227 adframe.child_frame (create_new_adframe:75) [INFO]: 「エスエムビーニュース_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:14:40,914 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:14:40,943 adframe.child_frame (create_new_adframe:22) [INFO]: 「エスエムビーニュース_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:14:41,605 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:14:49,502 adframe.child_frame (create_new_adframe:75) [INFO]: 「エスエムビーニュース_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:14:50,224 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:14:50,233 adframe.child_frame (create_new_adframe:22) [INFO]: 「エスエムビーニュース_記事内2x2タイル表示_インフィード小」の登録を開始します。
+2025-04-21 18:14:50,905 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:14:59,422 adframe.child_frame (create_new_adframe:75) [INFO]: 「エスエムビーニュース_記事内2x2タイル表示_インフィード小」の登録を完了しました。
+2025-04-21 18:15:00,146 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x2タイル表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:15:00,146 adframe.child_frame (create_new_adframe:22) [INFO]: 「エスエムビーニュース_記事内_インフィード大」の登録を開始します。
+2025-04-21 18:15:00,773 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオンにしました。
+2025-04-21 18:15:09,525 adframe.child_frame (create_new_adframe:75) [INFO]: 「エスエムビーニュース_記事内_インフィード大」の登録を完了しました。
+2025-04-21 18:15:10,179 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオフにしました。
+2025-04-21 18:15:10,221 adframe.child_frame (create_new_adframe:22) [INFO]: 「ひろぼーCAFEブログ_記事内_インフィード大」の登録を開始します。
+2025-04-21 18:15:10,860 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオンにしました。
+2025-04-21 18:15:18,963 adframe.child_frame (create_new_adframe:75) [INFO]: 「ひろぼーCAFEブログ_記事内_インフィード大」の登録を完了しました。
+2025-04-21 18:15:19,596 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオフにしました。
+2025-04-21 18:15:19,635 adframe.child_frame (create_new_adframe:22) [INFO]: 「templatesledger_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:15:20,305 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:15:28,377 adframe.child_frame (create_new_adframe:75) [INFO]: 「templatesledger_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:15:29,050 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:15:29,078 adframe.child_frame (create_new_adframe:22) [INFO]: 「templatesledger_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:15:29,781 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:15:37,948 adframe.child_frame (create_new_adframe:75) [INFO]: 「templatesledger_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:15:38,629 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:15:38,639 adframe.child_frame (create_new_adframe:22) [INFO]: 「templatesledger_記事内_インフィード大」の登録を開始します。
+2025-04-21 18:15:39,293 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオンにしました。
+2025-04-21 18:15:47,288 adframe.child_frame (create_new_adframe:75) [INFO]: 「templatesledger_記事内_インフィード大」の登録を完了しました。
+2025-04-21 18:15:47,956 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオフにしました。
+2025-04-21 18:15:47,996 adframe.child_frame (create_new_adframe:22) [INFO]: 「じぇいじぇいのブログ_記事内インフィード4連」の登録を開始します。
+2025-04-21 18:15:48,691 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオンにしました。
+2025-04-21 18:15:57,310 adframe.child_frame (create_new_adframe:75) [INFO]: 「じぇいじぇいのブログ_記事内インフィード4連」の登録を完了しました。
+2025-04-21 18:15:57,979 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード4連」のチェックボックスをオフにしました。
+2025-04-21 18:15:57,999 adframe.child_frame (create_new_adframe:22) [INFO]: 「じぇいじぇいのブログ_記事内インフィード5連_インフィード小」の登録を開始します。
+2025-04-21 18:15:58,641 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:16:07,152 adframe.child_frame (create_new_adframe:75) [INFO]: 「じぇいじぇいのブログ_記事内インフィード5連_インフィード小」の登録を完了しました。
+2025-04-21 18:16:07,813 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:16:07,841 adframe.child_frame (create_new_adframe:22) [INFO]: 「じぇいじぇいのブログ_記事内2x4表示_インフィード小」の登録を開始します。
+2025-04-21 18:16:08,523 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-21 18:16:17,075 adframe.child_frame (create_new_adframe:75) [INFO]: 「じぇいじぇいのブログ_記事内2x4表示_インフィード小」の登録を完了しました。
+2025-04-21 18:16:17,761 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-21 18:16:17,771 adframe.child_frame (create_new_adframe:22) [INFO]: 「じぇいじぇいのブログ_記事内_インフィード大」の登録を開始します。
+2025-04-21 18:16:18,493 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオンにしました。
+2025-04-21 18:16:27,167 adframe.child_frame (create_new_adframe:75) [INFO]: 「じぇいじぇいのブログ_記事内_インフィード大」の登録を完了しました。
+2025-04-21 18:16:27,197 adframe.child_frame (create_new_adframe:81) [WARNING]: ウィンドウの切り替えに失敗しました。3回目
+2025-04-21 18:16:39,484 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:16:41,441 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-21 18:16:41,555 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-21 18:16:41,555 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-21 18:16:41,556 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18140
+2025-04-21 18:16:41,556 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18140
+2025-04-21 18:16:41,556 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18140
+2025-04-21 18:16:41,556 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18139
+2025-04-21 18:16:41,556 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18139
+2025-04-21 18:16:41,557 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18139
+2025-04-21 18:16:41,557 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18138
+2025-04-21 18:16:41,557 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18138
+2025-04-21 18:16:41,557 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18138
+2025-04-21 18:16:41,558 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18129
+2025-04-21 18:16:41,558 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18129
+2025-04-21 18:16:41,558 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18129
+2025-04-21 18:16:41,558 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18128
+2025-04-21 18:16:41,558 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18128
+2025-04-21 18:16:41,558 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18128
+2025-04-21 18:16:41,558 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18146
+2025-04-21 18:16:41,559 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18146
+2025-04-21 18:16:41,559 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18146
+2025-04-21 18:16:41,559 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18147
+2025-04-21 18:16:41,559 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18147
+2025-04-21 18:16:41,559 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18147
+2025-04-21 18:16:41,559 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18148
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18148
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18148
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18145
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18145
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18145
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18119
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18119
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18119
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18119
+2025-04-21 18:16:41,560 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18119
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18121
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18149
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18149
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18149
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18149
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 13994
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 17058
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 17058
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 17058
+2025-04-21 18:16:41,561 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18144
+2025-04-21 18:16:41,562 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18144
+2025-04-21 18:16:41,562 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18144
+2025-04-21 18:16:41,562 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 18144
+2025-04-21 18:16:41,562 adframe.child_frame (create_new_adframe:22) [INFO]: 「のんびりゆる育児_記事内_インフィード大」の登録を開始します。
+2025-04-21 18:16:51,360 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオンにしました。
+2025-04-21 18:16:59,232 adframe.child_frame (create_new_adframe:75) [INFO]: 「のんびりゆる育児_記事内_インフィード大」の登録を完了しました。
+2025-04-21 18:16:59,877 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内_インフィード大」のチェックボックスをオフにしました。
+2025-04-21 18:16:59,909 __main__ (main:33) [INFO]: 子枠の作成に成功しました。
+2025-04-21 18:17:02,015 __main__ (main:36) [INFO]: 子枠の作成を終了しました。

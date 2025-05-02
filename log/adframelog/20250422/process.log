@@ -1,0 +1,1487 @@
+2025-04-22 17:18:25,583 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:18:36,987 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:18:39,609 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:18:39,610 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:18:39,616 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 6952
+2025-04-22 17:18:58,182 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 17:18:58,379 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 17:18:58,387 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:18:59,510 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 6952
+2025-04-22 17:19:44,951 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:19:50,521 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:19:51,778 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:19:51,779 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:19:51,780 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 6952
+2025-04-22 17:20:07,625 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 17:20:07,770 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 17:20:07,778 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:20:08,857 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 6952
+2025-04-22 17:20:08,872 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 17:20:14,924 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 17:20:15,082 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 17:20:15,089 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:20:16,193 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 17803
+2025-04-22 17:20:16,208 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 17:20:23,235 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 17:20:23,368 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 17:20:23,377 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:20:24,453 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 17802
+2025-04-22 17:20:24,454 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:20:24,454 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:20:25,247 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 17:20:28,089 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 17:20:36,437 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 17:20:36,460 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 17:20:38,134 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-22 17:20:41,278 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 6952
+2025-04-22 17:20:41,298 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 17:20:42,627 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 17:20:51,750 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 17:20:51,770 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 17:20:53,498 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-22 17:20:56,667 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 17803
+2025-04-22 17:20:56,686 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 17:20:57,943 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:21:07,177 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 17:21:07,199 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 17:21:08,865 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-22 17:21:12,087 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 17802
+2025-04-22 17:21:12,091 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 17:21:14,951 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 17:21:15,921 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 17:21:18,809 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110290】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:21:19,679 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110290】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 17:21:23,991 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110290】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 17:21:35,523 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110289】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 17:21:36,301 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110289】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 17:21:39,914 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110289】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 17:21:48,125 adframe.insert_id (insert_id:99) [ERROR]: [ERROR] 指定された要素が存在しません。
+2025-04-22 17:21:48,126 adframe.insert_id (insert_id:100) [ERROR]: NoSuchElementException:
+Traceback (most recent call last):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\adframe\insert_id.py", line 77, in insert_id
+    micro_func.button_click(
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\micro_func.py", line 84, in button_click
+    for btn in scraper.find_elements_by_css(css):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\scraper.py", line 30, in find_elements_by_css
+    raise NoSuchElementException("要素が見つかりませんでした")
+selenium.common.exceptions.NoSuchElementException: Message: 要素が見つかりませんでした; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2025-04-22 17:22:00,293 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:22:04,226 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:22:05,447 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:22:05,447 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:22:05,461 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:22:05,462 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:22:05,463 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:22:05,463 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:22:05,463 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:22:06,495 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:22:06,496 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:22:06,496 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:22:06,497 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 17:22:13,503 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 17:22:14,137 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 2個
+2025-04-22 17:22:17,460 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110289】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 17:22:18,518 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110289】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 17:22:22,636 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110289】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 17:22:34,391 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110288】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 17:22:35,337 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110288】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 17:22:39,024 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110288】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 17:22:48,030 __main__ (main:48) [INFO]: IDの挿入に成功しました。
+2025-04-22 17:22:48,030 __main__ (main:51) [INFO]: ハイブリット枠の作成に成功しました。
+2025-04-22 17:22:55,603 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-22 17:22:58,928 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-22 17:23:00,081 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-22 17:23:03,518 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 0個
+2025-04-22 17:23:05,706 __main__ (execute_insert:66) [INFO]: IDの挿入に成功しました。
+2025-04-22 17:23:39,207 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:23:43,649 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 17:23:45,153 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-22 17:23:45,153 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:23:45,154 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内1_25×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:23:55,504 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:24:04,793 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内1_25×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:24:05,695 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:24:05,721 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内25_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:24:06,529 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:24:15,862 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内25_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:24:16,694 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:24:16,757 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内26_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:24:17,898 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:24:28,435 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内26_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:24:42,172 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:24:48,866 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 17:24:52,128 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-22 17:24:52,129 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:24:52,147 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:24:52,148 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:24:52,149 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:24:52,150 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内26_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:25:03,467 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:25:13,813 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内26_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:25:27,064 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:25:29,749 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 17:25:30,809 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-22 17:25:30,810 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:25:30,818 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:25:30,818 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:25:30,818 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:25:30,818 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:25:30,818 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内27_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:25:41,090 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:25:49,720 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内27_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:25:50,708 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:25:50,746 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内27_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:25:51,549 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:26:00,753 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内27_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:26:01,684 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:26:01,748 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内28_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:26:02,701 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:26:12,048 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内28_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:26:13,102 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:26:13,152 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内28_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:26:14,081 adframe.child_frame (check_table_row_to_copy:110) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:26:23,830 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内28_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:26:38,213 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:26:41,047 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 17:26:43,057 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-22 17:26:43,059 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:26:43,071 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:26:43,072 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:26:43,072 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:26:43,073 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:26:43,073 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:26:43,074 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:26:43,074 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:26:43,075 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:26:43,075 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内29_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:26:52,968 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:27:01,963 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内29_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:27:02,862 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:27:02,903 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内29_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:27:03,913 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:27:13,374 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内29_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:27:14,285 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:27:14,383 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内30_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:27:15,295 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:27:24,848 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内30_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:27:25,957 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:27:26,010 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内30_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:27:26,925 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:27:36,792 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内30_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:27:37,798 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:27:37,878 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内31_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:27:38,764 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:27:47,700 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内31_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:27:48,649 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:27:48,684 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内31_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:27:49,608 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:28:08,173 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:28:10,688 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 17:28:11,520 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-22 17:28:11,520 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:28:11,520 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,525 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,525 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,526 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,526 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,526 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,526 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,526 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,526 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,530 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,530 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,531 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,532 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:28:11,533 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内31_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:28:21,255 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:28:31,863 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内31_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:28:32,759 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:28:32,839 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内32_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:28:33,752 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:28:51,227 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:29:06,302 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 17:29:23,167 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:29:28,171 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 17:29:29,982 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-22 17:29:29,982 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:29:29,985 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,986 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,987 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,988 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,989 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,989 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,990 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,991 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,992 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,992 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,994 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,994 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,995 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,996 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:29:29,996 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内32_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:29:40,310 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:29:50,112 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内32_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:29:51,042 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:29:51,086 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内32_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:29:52,011 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:30:01,303 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内32_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:30:02,214 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:30:02,295 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内33_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:30:03,187 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:30:13,879 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内33_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:30:14,867 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:30:14,906 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内33_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:30:15,792 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:30:25,707 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内33_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:30:26,735 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:30:26,841 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内34_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:30:27,797 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:30:37,368 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内34_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:30:38,447 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:30:38,483 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内34_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:30:39,435 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:30:49,381 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内34_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:30:50,282 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:30:50,399 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内35_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:30:51,433 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:31:01,024 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内35_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:31:01,997 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:31:02,030 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内35_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:31:02,787 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:31:12,272 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内35_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:31:13,199 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:31:13,283 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内36_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:31:14,116 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:31:23,072 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内36_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:31:24,029 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:31:24,059 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内36_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:31:24,869 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:31:34,647 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内36_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:31:35,612 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:31:35,710 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内37_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:31:36,653 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:31:46,907 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内37_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:31:48,012 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:31:48,063 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内37_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:31:48,932 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:32:34,370 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内37_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:32:35,341 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:32:35,413 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内38_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:32:36,379 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:32:45,724 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内38_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:32:46,709 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:32:46,742 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内38_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:32:47,614 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:32:56,421 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内38_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:32:57,229 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:32:57,365 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内39_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:32:58,335 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:33:08,948 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内39_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:33:22,307 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:33:27,430 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 17:33:29,389 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-22 17:33:29,390 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:33:29,409 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,410 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,410 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,411 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,411 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,412 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,412 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,413 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,413 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,414 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,414 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,415 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,415 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,416 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,416 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,417 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,417 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,418 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,418 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,419 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,419 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,420 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,421 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,422 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,423 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,423 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,424 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,424 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,424 adframe.child_frame (create_new_adframe:19) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:33:29,425 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内39_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:33:39,461 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:33:51,705 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内39_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:33:52,609 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:33:52,782 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内40_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:33:53,680 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:34:04,146 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内40_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:34:05,224 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:34:05,276 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内40_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:34:06,102 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:34:18,893 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内40_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:34:19,790 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:34:19,883 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内41_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:34:20,920 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:34:30,604 adframe.child_frame (create_new_adframe:75) [INFO]: 「寺尾_テストメディア（一般）_記事内41_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:34:31,577 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:34:31,608 adframe.child_frame (create_new_adframe:22) [INFO]: 「新保テストマクロ用_記事内41_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:34:32,499 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:34:41,652 adframe.child_frame (create_new_adframe:75) [INFO]: 「新保テストマクロ用_記事内41_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:34:42,633 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:34:42,727 adframe.child_frame (create_new_adframe:22) [INFO]: 「寺尾_テストメディア（一般）_記事内42_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:34:43,784 adframe.child_frame (check_table_row_to_copy:111) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:35:02,169 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:35:06,943 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 17:35:08,431 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-22 17:35:08,433 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:35:08,435 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,437 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,438 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,439 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,440 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,440 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,441 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,442 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,442 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,443 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,444 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,445 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,445 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,446 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,446 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,448 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,449 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,449 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,450 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,450 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,450 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,451 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,451 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,452 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,452 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,453 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,453 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,454 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,454 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,454 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,456 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,456 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,457 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,457 adframe.child_frame (create_new_adframe:20) [INFO]: 既に子枠が作成された記録があるためスキップしました。: 6952
+2025-04-22 17:35:08,458 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内42_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:35:19,376 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:35:28,252 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内42_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:35:29,213 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:35:29,261 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内42_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:35:30,315 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:35:39,387 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内42_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:35:40,395 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:35:40,478 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内43_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:35:41,308 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:35:50,407 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内43_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:35:51,375 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:35:51,423 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内43_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:35:52,382 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:36:01,822 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内43_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:36:02,759 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:36:02,839 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内44_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:36:03,849 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:36:13,128 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内44_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:36:14,157 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:36:14,192 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内44_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:36:15,164 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:36:24,874 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内44_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:36:26,068 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:36:26,199 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内45_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:36:27,136 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:36:37,460 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内45_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:36:38,533 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:36:38,572 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内45_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:36:39,590 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:36:49,187 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内45_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:36:50,075 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:36:50,180 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内46_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:36:51,007 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:37:00,354 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内46_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:37:01,242 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:37:01,282 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内46_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:37:02,050 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:37:11,933 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内46_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:37:12,931 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:37:12,999 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内47_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 17:37:13,892 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:37:23,257 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内47_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 17:37:24,301 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:37:24,340 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内47_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 17:37:25,203 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 17:37:34,953 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内47_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 17:37:35,971 adframe.child_frame (check_table_row_to_copy:115) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 17:37:36,062 __main__ (main:33) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:37:38,308 __main__ (main:36) [INFO]: 子枠の作成を終了しました。
+2025-04-22 17:44:26,582 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:44:58,839 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:44:59,703 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:44:59,705 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:44:59,706 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 6952
+2025-04-22 17:45:19,654 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 17:45:19,818 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 17:45:19,823 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:45:20,909 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 6952
+2025-04-22 17:45:20,918 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 17:45:33,183 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:46:04,436 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:46:11,706 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:46:11,708 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:46:11,708 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:46:11,708 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 17:46:29,254 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 17:46:29,469 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 17:46:29,478 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:46:30,592 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 17803
+2025-04-22 17:46:30,596 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 17:46:36,851 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 17:46:37,027 adframe.child_frame_multi (set_new_adframe_name:157) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 17:46:37,042 adframe.child_frame_multi (set_new_adframe_name:168) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:46:38,149 adframe.child_frame_multi (create_new_adframe:49) [INFO]: 子枠の作成に成功、メディアID: 17802
+2025-04-22 17:46:38,151 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:46:38,152 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:46:39,147 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 17:46:41,825 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 17:46:50,871 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 17:46:50,898 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 17:46:52,508 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-22 17:46:55,696 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 6952
+2025-04-22 17:46:55,700 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 17:46:57,412 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 17:47:11,270 adframe.parents_frame (apply_new_adframe:67) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」のチェックボックスは存在しません。
+2025-04-22 17:47:16,309 adframe.parents_frame (apply_new_adframe:67) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」のチェックボックスは存在しません。
+2025-04-22 17:47:30,172 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:47:34,066 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:47:35,982 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:47:35,982 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:47:35,982 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:47:35,982 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:47:35,982 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:47:35,982 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:47:35,982 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:47:39,403 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:47:39,403 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 17:47:40,614 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 17:48:22,827 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 17:48:22,867 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 17:48:24,994 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-22 17:48:28,187 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 17803
+2025-04-22 17:48:28,195 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 17:48:29,512 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:48:38,972 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 17:48:39,005 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 17:48:40,989 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-22 17:48:44,314 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 17802
+2025-04-22 17:48:44,317 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 17:48:46,915 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 17:48:47,556 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 17:48:51,358 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110345】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:48:53,159 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110345】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 17:48:57,414 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110345】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 17:49:00,722 adframe.insert_id (insert_id:99) [ERROR]: [ERROR] 指定された要素が存在しません。
+2025-04-22 17:49:00,723 adframe.insert_id (insert_id:100) [ERROR]: NoSuchElementException:
+Traceback (most recent call last):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\adframe\insert_id.py", line 77, in insert_id
+    micro_func.button_click(
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\micro_func.py", line 84, in button_click
+    for btn in scraper.find_elements_by_css(css):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\scraper.py", line 30, in find_elements_by_css
+    raise NoSuchElementException("要素が見つかりませんでした")
+selenium.common.exceptions.NoSuchElementException: Message: 要素が見つかりませんでした; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2025-04-22 17:49:13,126 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:49:17,928 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:49:26,558 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:49:26,559 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:49:26,562 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:49:26,563 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:49:26,564 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:49:26,564 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:49:26,564 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:49:31,116 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:49:31,117 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:49:31,118 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:49:31,118 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 17:49:36,157 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 17:49:36,769 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 17:49:39,876 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110345】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:49:41,289 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110345】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 17:49:45,168 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110345】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 17:49:57,278 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110344】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 17:49:58,450 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110344】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 17:50:02,499 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110344】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 17:50:05,706 adframe.insert_id (insert_id:99) [ERROR]: [ERROR] 指定された要素が存在しません。
+2025-04-22 17:50:05,706 adframe.insert_id (insert_id:100) [ERROR]: NoSuchElementException:
+Traceback (most recent call last):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\adframe\insert_id.py", line 77, in insert_id
+    micro_func.button_click(
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\micro_func.py", line 84, in button_click
+    for btn in scraper.find_elements_by_css(css):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\scraper.py", line 30, in find_elements_by_css
+    raise NoSuchElementException("要素が見つかりませんでした")
+selenium.common.exceptions.NoSuchElementException: Message: 要素が見つかりませんでした; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2025-04-22 17:50:18,248 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:50:21,529 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:50:21,744 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:50:21,746 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:50:21,747 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:50:21,748 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:50:21,748 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:50:21,748 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:50:21,748 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:50:28,719 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:50:28,721 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:50:28,721 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:50:28,723 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 17:50:33,774 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 17:50:34,368 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 2個
+2025-04-22 17:50:37,414 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110344】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 17:50:38,662 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110344】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 17:50:42,516 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110344】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 17:50:55,692 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【F_110343】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 17:50:56,765 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110343】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 17:51:01,206 adframe.insert_id (insert_txbox:111) [INFO]: テキストボックスに「【f_110343】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 17:51:09,995 __main__ (main:48) [INFO]: IDの挿入に成功しました。
+2025-04-22 17:51:09,995 __main__ (main:51) [INFO]: ハイブリット枠の作成に成功しました。
+2025-04-22 17:51:17,359 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-22 17:51:20,136 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-22 17:51:20,364 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-22 17:51:24,417 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 0個
+2025-04-22 17:51:26,605 __main__ (execute_insert:66) [INFO]: IDの挿入に成功しました。
+2025-04-22 17:53:31,495 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:53:34,327 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:53:35,585 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:53:35,586 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:53:35,587 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 6952
+2025-04-22 17:53:57,133 adframe.child_frame_multi (set_new_adframe_name:163) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 17:53:57,590 adframe.child_frame_multi (set_new_adframe_name:163) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 17:53:57,600 adframe.child_frame_multi (set_new_adframe_name:174) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:53:58,724 adframe.child_frame_multi (create_new_adframe:55) [INFO]: 子枠の作成に成功、メディアID: 6952
+2025-04-22 17:53:58,750 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 17:54:08,043 adframe.child_frame_multi (set_new_adframe_name:163) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 17:54:08,245 adframe.child_frame_multi (set_new_adframe_name:163) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 17:54:08,253 adframe.child_frame_multi (set_new_adframe_name:174) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:54:09,341 adframe.child_frame_multi (create_new_adframe:55) [INFO]: 子枠の作成に成功、メディアID: 17803
+2025-04-22 17:54:09,350 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 17:54:09,873 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。1回目
+2025-04-22 17:54:10,907 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。2回目
+2025-04-22 17:54:11,933 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。3回目
+2025-04-22 17:54:30,254 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:54:33,572 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:54:33,841 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:54:33,848 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:54:33,848 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:54:33,848 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:54:33,848 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 17:54:56,615 adframe.child_frame_multi (set_new_adframe_name:163) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 17:54:56,939 adframe.child_frame_multi (set_new_adframe_name:163) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 17:54:56,952 adframe.child_frame_multi (set_new_adframe_name:174) [INFO]: 任意名称の設定に成功。
+2025-04-22 17:54:58,063 adframe.child_frame_multi (create_new_adframe:55) [INFO]: 子枠の作成に成功、メディアID: 17802
+2025-04-22 17:54:58,068 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:54:58,069 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:54:58,891 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 17:55:01,515 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 17:55:10,308 adframe.parents_frame (apply_new_adframe:101) [INFO]: The specified element may not exist.
+2025-04-22 17:55:10,308 adframe.parents_frame (apply_new_adframe:102) [ERROR]: The detailed error message -
+Traceback (most recent call last):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\adframe\parents_frame.py", line 45, in apply_new_adframe
+    micro_func.button_click(
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\micro_func.py", line 84, in button_click
+    for btn in scraper.find_elements_by_css(css):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\scraper.py", line 30, in find_elements_by_css
+    raise NoSuchElementException("要素が見つかりませんでした")
+selenium.common.exceptions.NoSuchElementException: Message: 要素が見つかりませんでした; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2025-04-22 17:55:22,085 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:55:27,729 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:55:28,984 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:55:28,984 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:55:28,984 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:55:28,984 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:55:28,984 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:55:28,984 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:55:28,984 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:55:32,249 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 17:55:33,490 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 17:55:49,057 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:55:53,501 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:55:55,073 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:55:55,074 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:55:55,076 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:55:55,078 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:55:55,079 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:55:55,080 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:55:55,081 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:55:58,645 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 17:56:00,249 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 17:56:09,180 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 17:56:09,205 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 17:56:11,791 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-22 17:56:15,030 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 6952
+2025-04-22 17:56:15,037 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 17:56:16,584 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 17:56:26,412 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 17:56:26,446 adframe.parents_frame (apply_new_adframe:71) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 17:56:28,405 adframe.parents_frame (apply_new_adframe:84) [INFO]: 比率の入力完了。
+2025-04-22 17:56:31,605 adframe.parents_frame (apply_new_adframe:96) [INFO]: 親枠の作成に成功、メディアID: 17803
+2025-04-22 17:56:31,611 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 17:56:35,766 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:56:54,130 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:57:09,320 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:57:12,961 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:57:12,961 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:57:12,961 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:57:12,969 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:57:12,970 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:57:12,970 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:57:12,970 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:57:17,055 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:57:17,074 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:57:17,074 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 17:57:18,509 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:57:38,114 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:57:44,535 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:57:45,344 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:57:45,344 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:57:45,347 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:57:45,350 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:57:45,350 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:57:45,350 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:57:45,350 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:57:51,446 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:57:51,446 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:57:51,446 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 17:57:52,642 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:58:00,821 adframe.parents_frame (apply_new_adframe:101) [INFO]: The specified element may not exist.
+2025-04-22 17:58:00,821 adframe.parents_frame (apply_new_adframe:102) [ERROR]: The detailed error message -
+Traceback (most recent call last):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\adframe\parents_frame.py", line 45, in apply_new_adframe
+    micro_func.button_click(
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\micro_func.py", line 84, in button_click
+    for btn in scraper.find_elements_by_css(css):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\core\scraper.py", line 30, in find_elements_by_css
+    raise NoSuchElementException("要素が見つかりませんでした")
+selenium.common.exceptions.NoSuchElementException: Message: 要素が見つかりませんでした; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2025-04-22 17:58:13,100 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:58:15,631 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:58:15,881 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:58:15,885 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:58:15,885 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:58:15,885 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:58:15,885 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:58:15,885 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:58:15,885 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:58:20,859 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:58:20,859 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:58:20,859 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 17:58:22,070 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:58:31,579 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 17:58:31,604 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 17:58:33,801 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 17:58:36,999 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17802
+2025-04-22 17:58:37,000 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 17:58:39,671 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 17:58:40,312 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 17:58:43,445 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110354】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:58:44,804 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110354】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 17:59:00,358 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 17:59:02,291 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 17:59:04,172 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 17:59:04,172 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 17:59:04,173 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:59:04,173 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:59:04,174 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:59:04,174 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 17:59:04,174 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 17:59:07,564 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 17:59:07,564 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 17:59:07,564 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 17:59:07,564 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 17:59:12,617 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 17:59:13,227 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 17:59:16,636 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110354】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 17:59:18,608 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110354】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 17:59:30,293 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000194978BDDE0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/d95aff59e6d271bafab31ca710548dc6
+2025-04-22 17:59:34,352 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019497A18DF0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/d95aff59e6d271bafab31ca710548dc6
+2025-04-22 17:59:38,414 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019497A18D90>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/d95aff59e6d271bafab31ca710548dc6
+2025-04-22 17:59:56,152 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:00:00,277 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:00:03,436 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:00:03,436 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:00:03,437 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:00:03,437 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:00:03,439 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:00:03,439 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:00:03,439 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:00:07,313 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:00:07,374 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:00:07,379 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:00:07,379 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:00:12,439 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:00:13,053 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 18:00:16,233 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110354】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:00:17,723 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110354】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:00:28,410 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001480795DDE0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/c687eddb7f83125f70562c4060bd5a6e
+2025-04-22 18:00:32,460 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014807AB8DF0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/c687eddb7f83125f70562c4060bd5a6e
+2025-04-22 18:00:36,549 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014807AB8D90>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/c687eddb7f83125f70562c4060bd5a6e
+2025-04-22 18:00:54,099 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:00:58,917 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:01:00,244 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:01:00,245 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:01:00,247 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:01:00,249 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:01:00,249 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:01:00,249 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:01:00,249 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:01:04,138 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:01:04,139 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:01:04,139 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:01:04,140 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:01:09,180 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:01:09,778 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 18:01:12,947 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110354】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:01:14,065 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110354】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:01:19,008 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110354】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 18:01:31,256 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110353】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:01:32,566 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110353】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:01:35,451 adframe.insert_id (insert_id_in_child:144) [WARNING]: ボタンのクリックに失敗しました。1回目
+2025-04-22 18:01:35,989 adframe.insert_id (insert_id_in_child:144) [WARNING]: ボタンのクリックに失敗しました。2回目
+2025-04-22 18:01:36,525 adframe.insert_id (insert_id_in_child:144) [WARNING]: ボタンのクリックに失敗しました。3回目
+2025-04-22 18:01:48,113 adframe.insert_id (insert_id_in_child:180) [ERROR]: `insert_id_in_child` の処理中にタイムアウトが発生しました。
+2025-04-22 18:01:48,114 adframe.insert_id (insert_id_in_child:181) [ERROR]: Timeout Exception:
+Traceback (most recent call last):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\adframe\insert_id.py", line 150, in insert_id_in_child
+    WebDriverWait(scraper.driver, 10).until(
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\python-embed\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF65A405355+78597]
+	GetHandleVerifier [0x00007FF65A4053B0+78688]
+	(No symbol) [0x00007FF65A1B91AA]
+	(No symbol) [0x00007FF65A20F149]
+	(No symbol) [0x00007FF65A20F3FC]
+	(No symbol) [0x00007FF65A262467]
+	(No symbol) [0x00007FF65A23712F]
+	(No symbol) [0x00007FF65A25F2BB]
+	(No symbol) [0x00007FF65A236EC3]
+	(No symbol) [0x00007FF65A2003F8]
+	(No symbol) [0x00007FF65A201163]
+	GetHandleVerifier [0x00007FF65A6AEF0D+2870973]
+	GetHandleVerifier [0x00007FF65A6A96B8+2848360]
+	GetHandleVerifier [0x00007FF65A6C6993+2967875]
+	GetHandleVerifier [0x00007FF65A42019A+188746]
+	GetHandleVerifier [0x00007FF65A42847F+222255]
+	GetHandleVerifier [0x00007FF65A40D2D4+111236]
+	GetHandleVerifier [0x00007FF65A40D482+111666]
+	GetHandleVerifier [0x00007FF65A3F35A9+5465]
+	BaseThreadInitThunk [0x00007FFF7E30259D+29]
+	RtlUserThreadStart [0x00007FFF7F94AF38+40]
+
+2025-04-22 18:01:48,125 adframe.insert_id (insert_id:101) [ERROR]: [ERROR] `#tbl_data` のロードが確認できません。処理を中断します。
+2025-04-22 18:01:48,125 adframe.insert_id (insert_id:102) [ERROR]: Timeout Exception:
+Traceback (most recent call last):
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\adframe\insert_id.py", line 75, in insert_id
+    insert_id_in_child(scraper, insert_frameid)
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\.\adframe\insert_id.py", line 150, in insert_id_in_child
+    WebDriverWait(scraper.driver, 10).until(
+  File "C:\Users\katsu\Downloads\20250421実行結果一式\AdframeApplyAuto_20250418_ver2\AdframeApplyAuto_20250418_ver2\python-embed\lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF65A405355+78597]
+	GetHandleVerifier [0x00007FF65A4053B0+78688]
+	(No symbol) [0x00007FF65A1B91AA]
+	(No symbol) [0x00007FF65A20F149]
+	(No symbol) [0x00007FF65A20F3FC]
+	(No symbol) [0x00007FF65A262467]
+	(No symbol) [0x00007FF65A23712F]
+	(No symbol) [0x00007FF65A25F2BB]
+	(No symbol) [0x00007FF65A236EC3]
+	(No symbol) [0x00007FF65A2003F8]
+	(No symbol) [0x00007FF65A201163]
+	GetHandleVerifier [0x00007FF65A6AEF0D+2870973]
+	GetHandleVerifier [0x00007FF65A6A96B8+2848360]
+	GetHandleVerifier [0x00007FF65A6C6993+2967875]
+	GetHandleVerifier [0x00007FF65A42019A+188746]
+	GetHandleVerifier [0x00007FF65A42847F+222255]
+	GetHandleVerifier [0x00007FF65A40D2D4+111236]
+	GetHandleVerifier [0x00007FF65A40D482+111666]
+	GetHandleVerifier [0x00007FF65A3F35A9+5465]
+	BaseThreadInitThunk [0x00007FFF7E30259D+29]
+	RtlUserThreadStart [0x00007FFF7F94AF38+40]
+
+2025-04-22 18:02:00,264 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:02:03,944 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:02:05,671 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:02:05,671 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:02:05,673 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:02:05,674 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:02:05,675 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:02:05,675 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:02:05,676 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:02:09,929 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:02:09,930 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:02:09,931 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:02:09,932 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:02:14,974 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:02:15,614 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 2個
+2025-04-22 18:02:19,450 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110353】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:02:20,466 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110353】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:02:31,812 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000147B382DDE0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/e4818ad5f4d5c0dc1ce54d6beeffb8e0
+2025-04-22 18:02:35,893 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000147B3984DF0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/e4818ad5f4d5c0dc1ce54d6beeffb8e0
+2025-04-22 18:02:39,953 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000147B3984D90>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/e4818ad5f4d5c0dc1ce54d6beeffb8e0
+2025-04-22 18:02:53,335 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:02:57,084 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-22 18:02:58,306 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-22 18:03:01,421 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 2個
+2025-04-22 18:03:04,864 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110353】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:03:06,364 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110353】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:03:10,202 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110353】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 18:03:20,614 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110352】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:03:21,604 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110352】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:03:25,239 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110352】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 18:03:36,292 __main__ (execute_insert:66) [INFO]: IDの挿入に成功しました。
+2025-04-22 18:10:26,636 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:10:32,582 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:10:41,413 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:10:41,422 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:10:41,428 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 6952
+2025-04-22 18:11:04,709 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:11:04,907 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 18:11:04,914 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:11:06,042 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 6952
+2025-04-22 18:11:06,050 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 18:11:14,630 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:11:14,797 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 18:11:14,806 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:11:15,904 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 17803
+2025-04-22 18:11:15,913 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 18:11:18,797 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。1回目
+2025-04-22 18:11:19,820 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。2回目
+2025-04-22 18:11:20,848 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。3回目
+2025-04-22 18:11:26,933 adframe.child_frame_multi (create_new_adframe:50) [WARNING]: ボタンのクリックに失敗しました。1回目
+2025-04-22 18:11:33,009 adframe.child_frame_multi (create_new_adframe:50) [WARNING]: ボタンのクリックに失敗しました。2回目
+2025-04-22 18:11:39,039 adframe.child_frame_multi (create_new_adframe:50) [WARNING]: ボタンのクリックに失敗しました。3回目
+2025-04-22 18:12:10,248 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:12:12,728 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:12:17,503 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:12:17,503 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:12:17,509 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:12:17,510 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:12:17,510 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 18:12:34,758 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:12:34,935 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 18:12:34,944 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:12:36,040 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 17802
+2025-04-22 18:12:36,042 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:12:36,043 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:12:39,578 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 18:12:40,807 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:12:48,864 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:12:48,888 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:12:50,738 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:12:53,935 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 6952
+2025-04-22 18:12:53,938 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 18:12:55,477 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:13:15,161 adframe.parents_frame (apply_new_adframe:73) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」のチェックボックスは存在しません。
+2025-04-22 18:13:20,238 adframe.parents_frame (apply_new_adframe:73) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」のチェックボックスは存在しません。
+2025-04-22 18:13:33,227 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:13:35,603 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:13:38,411 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:13:38,412 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:13:38,415 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:13:38,416 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:13:38,417 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:13:38,417 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:13:38,417 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:13:39,353 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:13:39,432 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 18:14:22,344 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:14:25,090 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:14:25,439 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:14:25,450 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:14:25,459 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:14:25,460 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:14:25,461 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:14:25,462 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:14:25,462 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:14:30,035 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:14:30,036 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 18:14:31,314 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:14:41,432 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:14:41,458 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:14:43,130 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:14:46,398 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17803
+2025-04-22 18:14:46,402 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 18:14:47,765 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:14:57,566 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:14:57,586 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:14:59,377 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:15:02,589 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17802
+2025-04-22 18:15:02,590 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:15:06,311 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:15:06,935 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 18:15:14,433 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110363】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:15:15,666 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110363】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:15:26,107 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016E9D37DED0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/33a531afe3680a8126ae9862b796a33f
+2025-04-22 18:15:30,186 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016E9D4D90F0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/33a531afe3680a8126ae9862b796a33f
+2025-04-22 18:15:34,247 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000016E9D4D9120>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/33a531afe3680a8126ae9862b796a33f
+2025-04-22 18:15:52,322 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:15:57,655 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:15:59,180 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:15:59,180 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:15:59,182 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:15:59,182 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:15:59,183 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:15:59,183 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:15:59,183 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:16:03,452 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:16:03,456 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:16:03,459 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:16:03,462 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:16:08,521 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:16:09,145 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 18:16:15,040 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110363】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:16:19,251 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110363】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:16:31,518 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FA5C3CDDE0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/683284c4eff115f433358bb10aff3d7f
+2025-04-22 18:16:35,587 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FA5C524DF0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/683284c4eff115f433358bb10aff3d7f
+2025-04-22 18:16:39,653 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FA5C524D90>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/683284c4eff115f433358bb10aff3d7f
+2025-04-22 18:16:58,249 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:17:01,233 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:17:03,453 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:17:03,453 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:17:03,455 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:17:03,456 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:17:03,456 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:17:03,457 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:17:03,457 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:17:07,007 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:17:07,011 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:17:07,013 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:17:07,013 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:17:12,093 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:17:12,757 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 18:17:17,101 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110363】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:17:18,062 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110363】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:17:21,844 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110363】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 18:17:34,341 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110362】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:17:35,415 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110362】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:17:39,093 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110362】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 18:17:51,322 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110361】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:17:52,413 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110361】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:18:02,888 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000254F144DDE0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/3ca67e04ac5c40108d7e3d5a1e3a4cc7
+2025-04-22 18:18:06,957 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000254F15A5090>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/3ca67e04ac5c40108d7e3d5a1e3a4cc7
+2025-04-22 18:18:11,018 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000254F15A4310>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/3ca67e04ac5c40108d7e3d5a1e3a4cc7
+2025-04-22 18:18:29,423 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:18:43,017 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:18:44,852 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:18:44,852 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:18:44,853 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:18:44,854 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:18:44,854 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:18:44,855 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:18:44,855 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:18:48,477 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:18:48,478 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:18:48,479 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:18:48,480 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:18:53,520 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:18:54,138 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 1個
+2025-04-22 18:18:59,243 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110361】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:19:00,634 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110361】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:19:10,866 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001379897DDB0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/8ce02dbc1ee31923e1f65a5f9108893d
+2025-04-22 18:19:14,918 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013798AD4DF0>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/8ce02dbc1ee31923e1f65a5f9108893d
+2025-04-22 18:19:18,962 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013798AD4D90>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/8ce02dbc1ee31923e1f65a5f9108893d
+2025-04-22 18:19:37,387 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:19:48,298 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:19:53,032 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:19:53,033 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:19:53,035 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:19:53,036 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:19:53,037 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:19:53,038 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:19:53,038 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:19:54,116 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:19:54,120 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:19:54,122 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:19:54,124 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:20:03,108 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:20:03,753 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 1個
+2025-04-22 18:20:07,419 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110361】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:20:08,582 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110361】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:20:13,277 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110361】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 18:20:24,393 __main__ (main:48) [INFO]: IDの挿入に成功しました。
+2025-04-22 18:20:24,394 __main__ (main:51) [INFO]: ハイブリット枠の作成に成功しました。
+2025-04-22 18:20:31,961 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:20:38,683 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-22 18:20:40,063 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-22 18:20:43,119 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 0個
+2025-04-22 18:20:45,329 __main__ (execute_insert:66) [INFO]: IDの挿入に成功しました。
+2025-04-22 18:21:07,403 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:21:18,626 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:21:18,903 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:21:18,904 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:21:18,907 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 6952
+2025-04-22 18:21:40,751 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:21:40,933 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 18:21:40,939 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:21:42,089 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 6952
+2025-04-22 18:21:42,095 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 18:21:46,520 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。1回目
+2025-04-22 18:21:47,543 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。2回目
+2025-04-22 18:21:48,559 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。3回目
+2025-04-22 18:21:54,686 adframe.child_frame_multi (create_new_adframe:50) [WARNING]: ボタンのクリックに失敗しました。1回目
+2025-04-22 18:21:58,505 adframe.child_frame_multi (create_new_adframe:50) [WARNING]: ボタンのクリックに失敗しました。2回目
+2025-04-22 18:22:15,055 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:22:22,816 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:22:24,279 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:22:24,279 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:22:24,281 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:22:24,282 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 18:22:48,393 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:22:48,721 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 18:22:48,740 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:22:49,861 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 17803
+2025-04-22 18:22:49,865 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 18:22:57,695 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:22:57,862 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 18:22:57,870 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:22:59,022 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 17802
+2025-04-22 18:22:59,024 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:22:59,024 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:23:02,229 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 18:23:03,499 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:23:11,873 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:23:11,892 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:23:13,617 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:23:16,901 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 6952
+2025-04-22 18:23:16,907 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 18:23:18,226 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:23:27,975 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:23:27,996 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:23:29,714 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:23:32,927 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17803
+2025-04-22 18:23:32,935 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 18:23:35,939 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:23:46,153 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022461C3DF30>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/d91da13d2bef06a3fa97b7ad9692fb04
+2025-04-22 18:23:50,204 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022461C3E110>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/d91da13d2bef06a3fa97b7ad9692fb04
+2025-04-22 18:23:54,262 urllib3.connectionpool (urlopen:812) [WARNING]: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022461C3E710>: Failed to establish a new connection: [WinError 10061] 対象のコンピューターによって拒否されたため、接続できませんでした。')': /session/d91da13d2bef06a3fa97b7ad9692fb04
+2025-04-22 18:24:12,138 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:24:14,700 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:24:15,741 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:24:15,741 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:24:15,745 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:24:15,746 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:24:15,747 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 17802
+2025-04-22 18:24:15,747 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:24:15,747 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:24:16,847 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:24:16,848 adframe.parents_frame (apply_new_adframe:20) [INFO]: 既に親枠が作成された記録があるためスキップしました。メディアID: 17803
+2025-04-22 18:24:16,850 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 18:24:19,275 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:24:29,555 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:24:29,577 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:24:31,401 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:24:34,686 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17802
+2025-04-22 18:24:34,689 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:24:37,883 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:24:38,544 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 18:24:41,455 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110372】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:24:42,537 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110372】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:24:46,220 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110372】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 18:24:57,594 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110371】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:24:58,587 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110371】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:25:02,598 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110371】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 18:25:14,779 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110370】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:25:15,727 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110370】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:25:20,056 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110370】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 18:25:29,679 __main__ (main:48) [INFO]: IDの挿入に成功しました。
+2025-04-22 18:25:29,680 __main__ (main:51) [INFO]: ハイブリット枠の作成に成功しました。
+2025-04-22 18:25:37,370 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:25:41,146 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-22 18:25:41,547 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-22 18:25:45,794 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 0個
+2025-04-22 18:25:48,060 __main__ (execute_insert:66) [INFO]: IDの挿入に成功しました。
+2025-04-22 18:29:10,208 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:29:12,903 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:29:14,047 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:29:14,048 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:29:14,051 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 6952
+2025-04-22 18:29:28,897 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:29:29,093 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 18:29:29,099 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:29:30,241 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 6952
+2025-04-22 18:29:30,245 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 18:29:36,855 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:29:37,019 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 18:29:37,026 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:29:38,143 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 17803
+2025-04-22 18:29:38,147 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 18:29:44,156 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:29:44,326 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 18:29:44,336 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:29:45,478 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 17802
+2025-04-22 18:29:45,480 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:29:45,480 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:29:46,445 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 18:29:49,073 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:29:57,154 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:29:57,178 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:29:58,944 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:30:02,143 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 6952
+2025-04-22 18:30:02,150 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 18:30:04,592 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:30:14,992 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:30:15,010 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:30:16,796 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:30:19,988 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17803
+2025-04-22 18:30:19,995 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 18:30:21,292 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:30:30,682 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:30:30,705 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:30:32,420 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:30:35,673 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17802
+2025-04-22 18:30:35,676 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:30:39,126 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:30:39,791 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 18:30:42,808 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110381】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:30:43,694 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110381】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:30:48,120 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110381】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 18:30:59,896 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110380】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:31:00,721 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110380】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:31:04,484 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110380】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 18:31:16,853 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110379】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:31:17,728 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110379】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:31:21,367 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110379】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 18:31:30,073 __main__ (main:48) [INFO]: IDの挿入に成功しました。
+2025-04-22 18:31:30,074 __main__ (main:51) [INFO]: ハイブリット枠の作成に成功しました。
+2025-04-22 18:31:37,557 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:31:41,423 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-22 18:31:44,354 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-22 18:31:47,668 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 0個
+2025-04-22 18:31:49,850 __main__ (execute_insert:66) [INFO]: IDの挿入に成功しました。
+2025-04-22 18:32:08,488 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:32:10,677 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:32:12,785 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:32:12,786 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:32:12,787 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 6952
+2025-04-22 18:32:28,075 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 18:32:28,258 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 18:32:28,265 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:32:29,333 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 6952
+2025-04-22 18:32:29,344 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 18:32:29,865 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。1回目
+2025-04-22 18:32:30,876 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。2回目
+2025-04-22 18:32:31,891 adframe.child_frame_multi (create_new_adframe:39) [WARNING]: ボタンのクリックに失敗しました。3回目
+2025-04-22 18:32:38,051 adframe.child_frame_multi (create_new_adframe:50) [WARNING]: ボタンのクリックに失敗しました。1回目
+2025-04-22 18:32:44,132 adframe.child_frame_multi (create_new_adframe:50) [WARNING]: ボタンのクリックに失敗しました。2回目
+2025-04-22 18:32:50,241 adframe.child_frame_multi (create_new_adframe:50) [WARNING]: ボタンのクリックに失敗しました。3回目
+2025-04-22 18:33:20,160 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 18:33:23,712 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 18:33:24,912 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 18:33:24,913 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 18:33:24,914 adframe.child_frame_multi (create_new_adframe:18) [INFO]: 既に子枠が作成された記録があるためスキップしました。メディアID: 6952
+2025-04-22 18:33:24,917 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 18:33:41,073 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 18:33:41,229 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 18:33:41,242 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:33:42,321 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 17803
+2025-04-22 18:33:42,328 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 18:33:49,611 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:33:49,855 adframe.child_frame_multi (set_new_adframe_name:171) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 18:33:49,862 adframe.child_frame_multi (set_new_adframe_name:182) [INFO]: 任意名称の設定に成功。
+2025-04-22 18:33:50,975 adframe.child_frame_multi (create_new_adframe:63) [INFO]: 子枠の作成に成功、メディアID: 17802
+2025-04-22 18:33:50,977 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 18:33:50,977 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 18:33:54,288 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 18:33:55,569 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 18:34:04,086 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:34:04,111 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:34:05,809 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:34:09,013 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 6952
+2025-04-22 18:34:09,022 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 18:34:10,520 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 18:34:20,412 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:34:20,447 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:34:22,520 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:34:25,757 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17803
+2025-04-22 18:34:25,769 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 18:34:27,104 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:34:36,750 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 18:34:36,766 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 18:34:38,570 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 18:34:41,720 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17802
+2025-04-22 18:34:41,722 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 18:34:44,980 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:34:45,687 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 1個
+2025-04-22 18:34:48,794 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110390】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 18:34:49,963 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110390】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 18:34:53,921 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110390】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 18:35:03,304 __main__ (main:48) [INFO]: IDの挿入に成功しました。
+2025-04-22 18:35:03,305 __main__ (main:51) [INFO]: ハイブリット枠の作成に成功しました。
+2025-04-22 18:35:11,779 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-22 18:35:14,848 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-22 18:35:18,966 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-22 18:35:22,449 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 0個
+2025-04-22 18:35:24,657 __main__ (execute_insert:66) [INFO]: IDの挿入に成功しました。
+2025-04-22 19:45:38,878 __main__ (main:15) [INFO]: ハイブリット枠の作成を開始しました。
+2025-04-22 19:45:42,118 __main__ (main:25) [INFO]: ログインを開始しました。
+2025-04-22 19:45:43,098 __main__ (main:27) [INFO]: ログインに成功しました。
+2025-04-22 19:45:43,098 __main__ (main:30) [INFO]: 子枠の作成を開始しました。
+2025-04-22 19:45:43,105 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 6952
+2025-04-22 19:45:55,708 adframe.child_frame_multi (set_new_adframe_name:178) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 19:45:55,826 adframe.child_frame_multi (set_new_adframe_name:178) [INFO]: 任意名称に「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 19:45:55,832 adframe.child_frame_multi (set_new_adframe_name:189) [INFO]: 任意名称の設定に成功。
+2025-04-22 19:45:56,901 adframe.child_frame_multi (create_new_adframe:70) [INFO]: 子枠の作成に成功、メディアID: 6952
+2025-04-22 19:45:56,922 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17803
+2025-04-22 19:46:02,448 adframe.child_frame_multi (set_new_adframe_name:178) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 19:46:02,569 adframe.child_frame_multi (set_new_adframe_name:178) [INFO]: 任意名称に「【f_】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 19:46:02,573 adframe.child_frame_multi (set_new_adframe_name:189) [INFO]: 任意名称の設定に成功。
+2025-04-22 19:46:03,633 adframe.child_frame_multi (create_new_adframe:70) [INFO]: 子枠の作成に成功、メディアID: 17803
+2025-04-22 19:46:03,655 adframe.child_frame_multi (create_new_adframe:20) [INFO]: 子枠の作成を開始、メディアID: 17802
+2025-04-22 19:46:09,175 adframe.child_frame_multi (set_new_adframe_name:178) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 19:46:09,297 adframe.child_frame_multi (set_new_adframe_name:178) [INFO]: 任意名称に「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 19:46:09,302 adframe.child_frame_multi (set_new_adframe_name:189) [INFO]: 任意名称の設定に成功。
+2025-04-22 19:46:10,352 adframe.child_frame_multi (create_new_adframe:70) [INFO]: 子枠の作成に成功、メディアID: 17802
+2025-04-22 19:46:10,358 __main__ (main:32) [INFO]: 子枠の作成に成功しました。
+2025-04-22 19:46:10,359 __main__ (main:35) [INFO]: 親枠の作成を開始しました。
+2025-04-22 19:46:11,097 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 6952
+2025-04-22 19:46:14,204 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 19:46:21,140 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 19:46:21,156 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】寺尾_テストメディア（一般）_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 19:46:22,719 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 19:46:25,971 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 6952
+2025-04-22 19:46:25,977 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17803
+2025-04-22 19:46:27,288 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 19:46:35,130 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 19:46:35,158 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_8_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 19:46:36,645 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 19:46:39,789 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17803
+2025-04-22 19:46:39,815 adframe.parents_frame (apply_new_adframe:22) [INFO]: 親枠の作成を開始、メディアID: 17802
+2025-04-22 19:46:40,971 adframe.parents_frame (apply_new_adframe:35) [INFO]: 親枠の名称に「【F_】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 19:46:48,734 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_レクタングル用」にチェックを付けました。
+2025-04-22 19:46:48,750 adframe.parents_frame (apply_new_adframe:77) [INFO]: 「【f_】新保テストマクロ用_⑦_記事内4_インフィード用」にチェックを付けました。
+2025-04-22 19:46:50,198 adframe.parents_frame (apply_new_adframe:90) [INFO]: 比率の入力完了。
+2025-04-22 19:46:53,343 adframe.parents_frame (apply_new_adframe:102) [INFO]: 親枠の作成に成功、メディアID: 17802
+2025-04-22 19:46:53,345 __main__ (main:37) [INFO]: 親枠の作成に成功しました。
+2025-04-22 19:46:53,476 __main__ (main:46) [INFO]: IDの挿入を開始しました。
+2025-04-22 19:46:56,229 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 3個
+2025-04-22 19:46:58,746 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110399】新保テストマクロ用_⑦_記事内4_ハイブリッド」を入力。
+2025-04-22 19:46:59,457 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110399】新保テストマクロ用_⑦_記事内4_レクタングル用」を入力。
+2025-04-22 19:47:02,885 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110399】新保テストマクロ用_⑦_記事内4_インフィード用」を入力。
+2025-04-22 19:47:13,731 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110398】新保テストマクロ用_8_記事内4_ハイブリッド」を入力。
+2025-04-22 19:47:14,514 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110398】新保テストマクロ用_8_記事内4_レクタングル用」を入力。
+2025-04-22 19:47:17,921 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110398】新保テストマクロ用_8_記事内4_インフィード用」を入力。
+2025-04-22 19:47:28,418 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【F_110397】寺尾_テストメディア（一般）_記事内4_ハイブリッド」を入力。
+2025-04-22 19:47:29,157 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110397】寺尾_テストメディア（一般）_記事内4_レクタングル用」を入力。
+2025-04-22 19:47:32,455 adframe.insert_id (insert_txbox:118) [INFO]: テキストボックスに「【f_110397】寺尾_テストメディア（一般）_記事内4_インフィード用」を入力。
+2025-04-22 19:47:40,595 __main__ (main:48) [INFO]: IDの挿入に成功しました。
+2025-04-22 19:47:40,598 __main__ (main:51) [INFO]: ハイブリット枠の作成に成功しました。
+2025-04-22 19:47:47,699 __main__ (execute_insert:39) [INFO]: IDの挿入を開始しました。
+2025-04-22 19:47:50,086 __main__ (execute_insert:46) [INFO]: ログインを開始しました。
+2025-04-22 19:47:50,909 __main__ (execute_insert:48) [INFO]: ログインに成功しました。
+2025-04-22 19:47:53,876 adframe.insert_id (insert_id:42) [INFO]: IDを挿入すべき広告枠を抽出: 0個
+2025-04-22 19:47:56,099 __main__ (execute_insert:66) [INFO]: IDの挿入に成功しました。
+2025-04-22 19:48:52,294 __main__ (main:16) [INFO]: 子枠の作成を開始しました。
+2025-04-22 19:48:54,813 __main__ (main:26) [INFO]: ログインを開始しました。
+2025-04-22 19:48:55,659 __main__ (main:28) [INFO]: ログインに成功しました。
+2025-04-22 19:48:55,660 __main__ (main:31) [INFO]: 子枠の作成を開始しました。
+2025-04-22 19:48:55,660 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内1_25×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:49:03,811 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:49:12,193 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内1_25×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:49:12,925 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:49:12,939 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内25_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:49:13,604 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:49:21,325 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内25_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:49:22,029 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:49:22,062 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内26_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:49:22,763 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:49:31,061 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内26_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:49:31,760 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:49:31,784 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内26_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:49:32,462 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:49:40,674 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内26_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:49:41,325 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:49:41,364 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内27_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:49:42,012 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:49:50,075 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内27_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:49:50,752 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:49:50,811 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内27_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:49:51,455 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:50:00,177 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内27_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:50:00,970 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:50:01,027 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内28_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:50:01,785 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:50:10,629 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内28_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:50:11,437 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:50:11,473 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内28_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:50:12,236 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:50:20,662 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内28_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:50:21,378 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:50:21,412 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内29_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:50:22,114 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:50:30,479 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内29_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:50:31,163 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:50:31,174 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内29_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:50:31,911 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:50:40,557 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内29_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:50:41,262 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:50:41,368 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内30_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:50:42,160 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:50:50,565 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内30_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:50:51,312 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:50:51,327 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内30_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:50:51,968 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:50:59,722 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内30_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:51:00,433 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:51:00,508 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内31_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:51:01,214 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:51:09,388 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内31_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:51:10,103 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:51:10,124 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内31_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:51:10,746 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:51:18,966 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内31_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:51:19,669 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:51:19,793 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内32_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:51:20,455 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:51:28,641 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内32_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:51:29,390 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:51:29,409 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内32_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:51:30,074 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:51:38,381 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内32_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:51:39,084 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:51:39,125 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内33_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:51:39,779 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:51:47,922 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内33_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:51:48,647 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:51:48,671 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内33_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:51:49,345 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:51:57,594 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内33_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:51:58,278 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:51:58,364 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内34_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:51:59,052 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:52:06,758 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内34_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:52:07,484 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:52:07,553 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内34_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:52:08,202 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:52:16,416 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内34_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:52:17,163 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:52:17,215 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内35_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:52:17,889 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:52:25,503 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内35_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:52:26,168 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:52:26,178 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内35_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:52:26,881 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:52:35,022 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内35_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:52:35,727 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:52:35,765 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内36_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:52:36,554 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:52:42,552 adframe.child_frame (set_new_adframe_name:144) [WARNING]: 名前の入力に失敗しました。1回目
+2025-04-22 19:52:46,546 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内36_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:52:47,243 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:52:47,267 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内36_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:52:48,010 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:52:56,124 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内36_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:52:56,824 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:52:56,864 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内37_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:52:57,629 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:53:05,728 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内37_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:53:06,520 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:53:06,548 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内37_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:53:07,229 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:53:15,619 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内37_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:53:16,295 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:53:16,329 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内38_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:53:17,082 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:53:25,390 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内38_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:53:26,118 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:53:26,141 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内38_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:53:26,770 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:53:35,010 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内38_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:53:35,683 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:53:35,726 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内39_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:53:36,458 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:53:45,081 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内39_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:53:45,812 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:53:45,856 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内39_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:53:46,548 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:53:55,038 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内39_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:53:55,701 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:53:55,735 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内40_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:53:56,505 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:54:04,819 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内40_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:54:05,659 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:54:05,677 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内40_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:54:06,360 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:54:14,616 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内40_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:54:15,412 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:54:15,445 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内41_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:54:16,135 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:54:24,198 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内41_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:54:24,874 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:54:24,891 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内41_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:54:25,584 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:54:34,131 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内41_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:54:34,866 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:54:34,932 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内42_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:54:35,689 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:54:44,561 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内42_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:54:45,547 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:54:45,590 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内42_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:54:46,556 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:54:54,596 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内42_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:54:55,306 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:54:55,349 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内43_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:54:56,078 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:55:02,280 adframe.child_frame (set_new_adframe_name:144) [WARNING]: 名前の入力に失敗しました。1回目
+2025-04-22 19:55:06,352 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内43_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:55:07,167 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:55:07,191 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内43_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:55:07,862 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:55:16,261 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内43_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:55:16,946 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:55:16,986 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内44_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:55:17,721 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:55:26,008 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内44_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:55:26,730 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:55:26,749 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内44_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:55:27,420 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:55:35,661 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内44_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:55:36,330 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:55:36,369 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内45_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:55:37,048 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:55:45,312 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内45_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:55:46,012 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:55:46,032 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内45_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:55:46,692 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:55:54,928 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内45_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:55:55,611 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:55:55,649 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内46_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:55:56,339 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:56:03,964 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内46_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:56:04,762 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:56:04,780 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内46_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:56:05,577 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:56:14,123 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内46_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:56:14,973 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:56:15,043 adframe.child_frame (create_new_adframe:23) [INFO]: 「寺尾_テストメディア（一般）_記事内47_2×4表示_インフィード小」の登録を開始します。
+2025-04-22 19:56:15,739 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:56:23,979 adframe.child_frame (create_new_adframe:76) [INFO]: 「寺尾_テストメディア（一般）_記事内47_2×4表示_インフィード小」の登録を完了しました。
+2025-04-22 19:56:24,736 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内2x4表示_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:56:24,768 adframe.child_frame (create_new_adframe:23) [INFO]: 「新保テストマクロ用_記事内47_インフィード5連_インフィード小」の登録を開始します。
+2025-04-22 19:56:25,490 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオンにしました。
+2025-04-22 19:56:33,146 adframe.child_frame (create_new_adframe:76) [INFO]: 「新保テストマクロ用_記事内47_インフィード5連_インフィード小」の登録を完了しました。
+2025-04-22 19:56:33,868 adframe.child_frame (check_table_row_to_copy:114) [INFO]: 「原テスト_記事内インフィード5連_インフィード小」のチェックボックスをオフにしました。
+2025-04-22 19:56:33,906 __main__ (main:33) [INFO]: 子枠の作成に成功しました。
+2025-04-22 19:56:36,095 __main__ (main:36) [INFO]: 子枠の作成を終了しました。
