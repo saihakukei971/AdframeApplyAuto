@@ -1,0 +1,73 @@
+AdframeApplyAuto_v6
+│
+├── setup_and_manuals          # セットアップとマニュアル関連のファイル
+│   └── requirements.txt       # プロジェクトの依存関係をリストしたファイル
+│
+├── execute_create_child_adframe.py   # 子枠広告枠の作成を実行するPythonスクリプト
+├── execute_create_multi_adframe.py   # 親枠(ハイブリット枠)の広告枠を作成するPythonスクリプト
+├── execute_insert_id.py          # 広告枠IDの挿入処理を実行するPythonスクリプト
+├── execute_login.py             # fam8の管理画面へのログイン処理を実行するPythonスクリプト(IDとpassが記載されている)
+│
+├── switch_create_child_adframe.bat  # 子枠広告枠作成用のバッチスクリプト
+├── switch_create_multi_adframe.bat  # 親枠(ハイブリット枠)広告枠作成用のバッチスクリプト
+├── switch_insert_Id.bat           # 広告枠ID挿入用のバッチスクリプト
+│
+├── __pycache__                   # Pythonのコンパイル済みファイルが格納されるディレクトリ
+│   ├── execute_login.cpython-310.pyc
+│   └── その他のPythonコンパイル済みファイル（.pyc）
+│
+├── adframe                       # 広告枠関連のファイル（子枠、親枠、ID挿入処理など）
+│   ├── child_frame_multi.py      # 子枠広告枠作成用のPythonスクリプト
+│   ├── insert_id.py              # 広告枠ID挿入処理を実行するPythonスクリプト
+│   ├── parents_frame.py          # 親枠(ハイブリット枠)の作成処理を行うPythonスクリプト
+│   └── child_frame.py            # 子枠広告枠の作成処理を行うPythonスクリプト
+│   ├── __pycache__               # Pythonコンパイル済みファイル（.pyc）
+│   └── その他の関連ファイル
+│
+├── config                        # 設定ファイル（環境設定、APIキーなど）
+│   ├── settings.py               # 設定ファイル（アプリケーション設定）
+│   ├── driver_config.py          # ドライバ設定関連のファイル
+│   └── __pycache__               # Pythonコンパイル済みファイル（.pyc）
+│
+├── core                          # コア処理やビジネスロジックを含むフォルダ
+│   ├── scraper.py                # スクレイピング用のPythonスクリプト
+│   ├── micro_func.py             # 補助的な機能を提供するPythonスクリプト
+│   └── __pycache__               # Pythonコンパイル済みファイル（.pyc）
+│
+├── created_frames                # 作成済みの広告枠データ保存先(子枠、親枠の処理が落ちた際にbatでリトライをかけている。)
+│   ├── created_frames.py         # 作成済み広告枠関連の処理を行うPythonスクリプト
+│   └── __pycache__               # Pythonコンパイル済みファイル（.pyc）
+│
+├── csv                           # 作成する子枠、親枠(ハイブリット枠)の元となるCSVファイル
+│   ├── fam8_general_multi_create.csv  # 親枠(ハイブリット枠)のデータ
+│   ├── fam8_general_child_create.csv  # 子枠広告枠のデータ
+│
+├── log                           # 実行結果のログファイルの保存場所
+│   ├── log_config.json           # ログ設定ファイル
+│   ├── app_log.py                # 実行ログを記録するPythonスクリプト
+│   └── __pycache__               # Pythonコンパイル済みファイル（.pyc）
+│
+├── python-embed                  # Python環境をエンベッディングしているディレクトリ
+│   ├── _queue.pyd                # Python拡張モジュール
+│   ├── _socket.pyd               # Python拡張モジュール
+│   ├── _sqlite3.pyd              # Python拡張モジュール
+│   ├── _ssl.pyd                  # Python拡張モジュール
+│   ├── _uuid.pyd                 # Python拡張モジュール
+│   ├── _zoneinfo.pyd             # Python拡張モジュール
+│   ├── get-pip.py                # pipインストール用スクリプト
+│   ├── libcrypto-1_1.dll         # 必要なDLLファイル
+│   ├── libffi-7.dll              # 必要なDLLファイル
+│   ├── libssl-1_1.dll            # 必要なDLLファイル
+│   ├── LICENSE.txt               # ライセンスファイル
+│   ├── python.exe                # Python実行ファイル
+│   ├── python3.dll               # 必要なDLLファイル
+│   ├── その他のPythonライブラリやDLL
+│   └── Scripts/                  # スクリプトファイルなど
+│	・
+│	・
+│	・
+│	・
+│	・
+│	・
+│
+└── その他のディレクトリ/ファイル
